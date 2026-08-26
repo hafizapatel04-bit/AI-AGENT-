@@ -1,0 +1,1451 @@
+record_id,timestamp,source,region,category,unit_price,quantity,revenue,customer_rating,returned
+TX100270,2026-05-01 05:55:00,mobile_app_android,APAC,Toys,39.96,2,79.92,5,1
+TX101336,2026-05-01 05:59:00,social_instagram_ads,North America,Home & Kitchen,104.67,5,523.35,5,0
+TX100114,2026-05-01 11:19:00,affiliate_network,LATAM,Books,20.16,2,40.31,4,0
+TX100051,2026-05-01 12:16:00,web_store_us,LATAM,Apparel,30.43,2,60.86,4,0
+TX100955,2026-05-01 12:41:00,web_store_us,MEA,Home & Kitchen,71.84,4,287.36,5,0
+TX100656,2026-05-01 13:01:00,mobile_app_ios,Europe,Beauty,19.15,1,19.15,5,0
+TX101309,2026-05-01 16:45:00,marketplace_amazon,MEA,Books,17.79,4,71.17,4,0
+TX100848,2026-05-01 16:47:00,social_tiktok_ads,LATAM,Apparel,34.84,3,104.53,5,0
+TX101030,2026-05-01 16:52:00,web_store_apac,North America,Sports,44.56,1,44.56,4,0
+TX100989,2026-05-01 17:02:00,web_store_eu,MEA,Grocery,21.37,3,64.1,4,0
+TX101341,2026-05-01 17:15:00,mobile_app_android,LATAM,Toys,23.75,2,47.51,4,0
+TX100338,2026-05-01 19:22:00,web_store_apac,LATAM,Sports,48.96,1,48.96,3,0
+TX100568,2026-05-01 22:13:00,affiliate_network,LATAM,Books,23.11,1,23.11,3,0
+TX101256,2026-05-02 02:41:00,mobile_app_android,Europe,Apparel,34.04,1,34.04,4,0
+TX100072,2026-05-02 03:04:00,retail_pos_partners,MEA,Books,22.65,1,22.65,3,1
+TX100401,2026-05-02 03:27:00,social_instagram_ads,MEA,Sports,57.64,1,57.64,4,0
+TX100142,2026-05-02 16:12:00,mobile_app_android,MEA,Sports,29.69,1,29.69,3,0
+TX101292,2026-05-02 21:00:00,web_store_apac,MEA,Toys,27.05,1,27.05,4,1
+TX100995,2026-05-02 21:13:00,social_instagram_ads,North America,Toys,25.12,1,25.12,5,0
+TX100639,2026-05-02 22:08:00,retail_pos_partners,North America,Apparel,67.17,1,67.17,4,0
+TX101275,2026-05-02 23:07:00,mobile_app_android,APAC,Sports,47.9,2,95.79,3,0
+TX100442,2026-05-02 23:21:00,social_instagram_ads,Europe,Sports,43.58,3,130.74,5,0
+TX100506,2026-05-03 00:34:00,email_campaigns,LATAM,Grocery,29.68,3,89.04,4,0
+TX100030,2026-05-03 03:59:00,web_store_us,LATAM,Toys,36.1,3,108.3,3,0
+TX100796,2026-05-03 07:14:00,mobile_app_ios,LATAM,Apparel,42.27,1,42.27,3,0
+TX100496,2026-05-03 08:35:00,affiliate_network,Europe,Beauty,34.01,1,34.01,4,0
+TX100893,2026-05-03 12:43:00,marketplace_etsy,APAC,Books,18.25,2,36.5,4,0
+TX101008,2026-05-03 13:07:00,social_tiktok_ads,APAC,Sports,62.65,2,125.29,4,0
+TX100417,2026-05-03 14:20:00,web_store_us,Europe,Home & Kitchen,55.84,1,55.84,4,0
+TX101092,2026-05-03 16:08:00,web_store_us,MEA,Sports,66.78,1,66.78,4,0
+TX100507,2026-05-03 16:46:00,social_tiktok_ads,North America,Books,24.32,1,24.32,5,0
+TX100037,2026-05-03 18:35:00,mobile_app_ios,APAC,Home & Kitchen,62.98,4,251.93,5,0
+TX100215,2026-05-03 21:25:00,marketplace_amazon,APAC,Sports,70.2,2,140.4,5,0
+TX100532,2026-05-04 02:22:00,social_tiktok_ads,North America,Books,19.54,1,19.54,4,0
+TX100759,2026-05-04 12:03:00,retail_pos_partners,APAC,Home & Kitchen,89.68,4,358.72,5,0
+TX101406,2026-05-04 12:39:00,email_campaigns,APAC,Home & Kitchen,36.23,2,72.47,3,0
+TX100558,2026-05-04 15:06:00,email_campaigns,APAC,Apparel,39.94,1,39.94,5,0
+TX101295,2026-05-04 19:05:00,mobile_app_android,North America,Beauty,16.94,1,16.94,4,0
+TX100230,2026-05-04 19:56:00,web_store_eu,LATAM,Beauty,36.05,2,72.09,4,0
+TX100524,2026-05-04 20:17:00,affiliate_network,APAC,Books,23.35,2,46.71,5,0
+TX100082,2026-05-04 21:12:00,mobile_app_android,Europe,Beauty,24.59,3,73.78,5,0
+TX101442,2026-05-04 23:52:00,marketplace_amazon,APAC,Apparel,54.18,2,108.36,3,0
+TX100890,2026-05-05 02:04:00,web_store_us,APAC,Grocery,20.81,3,62.44,5,0
+TX100502,2026-05-05 02:52:00,web_store_apac,MEA,Electronics,151.01,1,151.01,3,0
+TX100408,2026-05-05 04:45:00,social_tiktok_ads,North America,Electronics,274.38,2,548.75,3,0
+TX101318,2026-05-05 06:01:00,retail_pos_partners,Europe,Beauty,30.89,1,30.89,4,0
+TX100165,2026-05-05 07:18:00,affiliate_network,APAC,Grocery,18.63,6,111.78,4,0
+TX100583,2026-05-05 08:14:00,web_store_us,APAC,Beauty,19.97,4,79.87,4,0
+TX100347,2026-05-05 09:12:00,web_store_apac,LATAM,Home & Kitchen,62.87,1,62.87,4,0
+TX100331,2026-05-05 09:58:00,marketplace_amazon,Europe,Apparel,49.82,2,99.64,5,0
+TX100073,2026-05-05 11:37:00,retail_pos_partners,MEA,Apparel,23.48,2,46.96,4,0
+TX100862,2026-05-05 11:52:00,mobile_app_android,MEA,Beauty,33.95,2,67.9,4,0
+TX101095,2026-05-05 14:22:00,social_tiktok_ads,North America,Apparel,44.44,4,177.74,3,1
+TX100993,2026-05-05 16:22:00,marketplace_etsy,MEA,Grocery,25.55,2,51.1,4,0
+TX100221,2026-05-05 18:23:00,web_store_us,LATAM,Sports,69.98,3,209.95,5,0
+TX100970,2026-05-05 19:32:00,social_tiktok_ads,Europe,Sports,59.3,1,59.3,5,0
+TX100349,2026-05-05 20:12:00,marketplace_etsy,APAC,Grocery,23.14,2,46.27,5,0
+TX100385,2026-05-06 00:05:00,email_campaigns,MEA,Toys,28.84,3,86.51,5,0
+TX100070,2026-05-06 00:21:00,email_campaigns,APAC,Books,18.11,3,54.33,5,0
+TX100153,2026-05-06 01:35:00,social_tiktok_ads,APAC,Apparel,46.08,1,46.08,4,0
+TX100517,2026-05-06 02:43:00,mobile_app_ios,APAC,Grocery,25.74,6,154.41,4,0
+TX100873,2026-05-06 04:59:00,marketplace_amazon,Europe,Grocery,29.41,4,117.63,3,0
+TX100670,2026-05-06 06:53:00,web_store_apac,MEA,Sports,39.69,2,79.38,5,0
+TX101116,2026-05-06 07:12:00,social_instagram_ads,LATAM,Apparel,43.37,2,86.74,4,0
+TX101193,2026-05-06 10:22:00,affiliate_network,LATAM,Books,17.48,1,17.48,4,0
+TX100195,2026-05-06 10:47:00,marketplace_etsy,LATAM,Beauty,37.22,3,111.67,4,0
+TX100319,2026-05-06 13:23:00,retail_pos_partners,LATAM,Apparel,40.59,4,162.37,4,0
+TX100172,2026-05-06 13:47:00,social_instagram_ads,MEA,Home & Kitchen,68.11,2,136.21,4,0
+TX100647,2026-05-06 15:23:00,web_store_us,Europe,Electronics,121.18,1,121.18,5,0
+TX100808,2026-05-06 17:31:00,marketplace_etsy,Europe,Sports,48.42,2,96.83,4,0
+TX100927,2026-05-06 20:20:00,social_instagram_ads,North America,Grocery,0.49340000000000006,2,49.35,3,1
+TX100088,2026-05-06 22:27:00,marketplace_etsy,APAC,Beauty,31.6,1,31.6,5,0
+TX101080,2026-05-06 23:04:00,affiliate_network,MEA,Sports,69.5,3,208.51,4,0
+TX100250,2026-05-06 23:50:00,social_instagram_ads,MEA,Beauty,27.82,2,55.65,5,0
+TX100866,2026-05-07 00:47:00,marketplace_etsy,MEA,Toys,33.16,2,66.31,4,0
+TX101381,2026-05-07 02:23:00,mobile_app_android,APAC,Books,9.32,3,27.96,5,0
+TX100718,2026-05-07 03:21:00,affiliate_network,Europe,Books,12.45,2,24.9,3,0
+TX100431,2026-05-07 03:26:00,social_tiktok_ads,Europe,Beauty,39.32,1,39.32,4,0
+TX100813,2026-05-07 03:52:00,mobile_app_android,LATAM,Sports,43.22,1,43.22,3,0
+TX101103,2026-05-07 09:33:00,mobile_app_ios,LATAM,Electronics,180.0,3,539.99,5,0
+TX100831,2026-05-07 16:14:00,mobile_app_ios,APAC,Toys,24.41,2,48.82,4,0
+TX100306,2026-05-07 20:41:00,marketplace_etsy,MEA,Toys,19.15,4,76.62,4,1
+TX101272,2026-05-07 21:18:00,social_instagram_ads,MEA,Apparel,50.64,1,50.64,4,0
+TX101105,2026-05-07 21:46:00,social_tiktok_ads,Europe,Beauty,20.41,4,81.64,4,0
+TX100430,2026-05-07 21:57:00,web_store_eu,Europe,Beauty,29.5,3,88.49,4,0
+TX100279,2026-05-08 00:13:00,mobile_app_ios,MEA,Books,17.06,2,34.12,4,0
+TX100054,2026-05-08 01:37:00,web_store_us,APAC,Electronics,337.32,4,1349.27,3,0
+TX101186,2026-05-08 03:36:00,retail_pos_partners,MEA,Beauty,25.83,1,25.83,3,1
+TX100659,2026-05-08 04:45:00,mobile_app_ios,LATAM,Books,23.59,3,70.76,5,0
+TX100968,2026-05-08 05:40:00,social_tiktok_ads,MEA,Sports,96.45,1,96.45,5,0
+TX100112,2026-05-08 06:53:00,social_tiktok_ads,LATAM,Grocery,27.31,1,27.31,4,0
+TX100031,2026-05-08 07:56:00,marketplace_amazon,Europe,Sports,35.2,5,176.0,5,0
+TX101357,2026-05-08 08:08:00,web_store_apac,MEA,Electronics,118.88,1,118.88,5,1
+TX101124,2026-05-08 09:12:00,web_store_us,Europe,Sports,56.47,2,112.95,4,0
+TX101059,2026-05-08 11:41:00,affiliate_network,North America,Toys,23.62,3,70.86,4,1
+TX100505,2026-05-08 19:40:00,mobile_app_ios,APAC,Grocery,23.48,1,23.48,5,0
+TX101313,2026-05-08 20:41:00,email_campaigns,LATAM,Sports,58.5,2,116.99,4,0
+TX100793,2026-05-09 01:19:00,affiliate_network,Europe,Sports,41.52,5,207.6,3,0
+TX101332,2026-05-09 03:17:00,web_store_us,APAC,Apparel,44.92,1,44.92,3,0
+TX101204,2026-05-09 04:17:00,affiliate_network,APAC,Toys,19.93,2,39.85,4,0
+TX101152,2026-05-09 05:59:00,email_campaigns,Europe,Beauty,14.07,1,14.07,4,0
+TX100203,2026-05-09 07:40:00,social_instagram_ads,MEA,Electronics,262.44,2,524.89,2,0
+TX100361,2026-05-09 07:49:00,social_instagram_ads,Europe,Electronics,120.79,1,120.79,4,1
+TX100824,2026-05-09 08:41:00,marketplace_etsy,North America,Grocery,11.62,2,23.24,4,0
+TX100562,2026-05-09 09:02:00,retail_pos_partners,APAC,Grocery,23.82,8,327.4153807390735,5,1
+TX100023,2026-05-09 12:24:00,email_campaigns,MEA,Books,9.37,1,9.37,4,0
+TX100652,2026-05-09 14:55:00,mobile_app_ios,LATAM,Electronics,247.81,1,247.81,5,0
+TX100133,2026-05-09 16:41:00,social_tiktok_ads,APAC,Books,15.64,2,31.28,5,0
+TX101142,2026-05-09 17:34:00,affiliate_network,APAC,Apparel,0.6996,2,69.97,5,0
+TX100056,2026-05-09 21:55:00,web_store_apac,MEA,Home & Kitchen,55.42,1,55.42,5,0
+TX100894,2026-05-09 23:37:00,web_store_eu,MEA,Electronics,195.05,3,585.15,5,0
+TX101445,2026-05-10 00:49:00,web_store_eu,North America,Books,17.91,1,17.91,4,0
+TX100226,2026-05-10 04:48:00,marketplace_amazon,LATAM,Home & Kitchen,55.2,1,55.2,3,0
+TX101112,2026-05-10 08:49:00,retail_pos_partners,Europe,Beauty,34.0,1,34.0,4,0
+TX100550,2026-05-10 14:38:00,retail_pos_partners,LATAM,Books,19.33,2,38.67,4,0
+TX100830,2026-05-10 15:20:00,social_instagram_ads,Europe,Grocery,28.64,1,28.64,3,0
+TX101353,2026-05-10 15:37:00,mobile_app_ios,Europe,Books,15.77,1,15.77,5,0
+TX100299,2026-05-10 20:55:00,web_store_us,APAC,Toys,36.63,3,109.9,4,0
+TX100166,2026-05-10 21:14:00,retail_pos_partners,LATAM,Sports,36.03,2,72.07,4,0
+TX100038,2026-05-10 22:40:00,mobile_app_ios,North America,Beauty,21.52,4,86.07,4,0
+TX100326,2026-05-11 05:17:00,social_tiktok_ads,APAC,Home & Kitchen,82.99,3,248.97,4,0
+TX100011,2026-05-11 07:55:00,web_store_us,APAC,Beauty,23.26,1,23.26,5,0
+TX100634,2026-05-11 09:05:00,email_campaigns,APAC,Apparel,58.57,1,58.57,5,0
+TX100355,2026-05-11 10:42:00,mobile_app_android,North America,Toys,21.71,2,43.41,4,0
+TX100511,2026-05-11 11:25:00,marketplace_amazon,LATAM,Sports,42.52,3,127.56,5,0
+TX100609,2026-05-11 11:42:00,email_campaigns,APAC,Toys,22.48,1,22.48,4,0
+TX101109,2026-05-11 12:32:00,web_store_us,APAC,Books,17.53,1,17.53,5,0
+TX100732,2026-05-11 12:57:00,mobile_app_ios,APAC,Grocery,27.13,1,27.13,3,0
+TX100058,2026-05-11 13:42:00,affiliate_network,MEA,Electronics,121.68,4,486.71,3,0
+TX101409,2026-05-11 17:54:00,mobile_app_android,North America,Beauty,26.2,1,26.2,4,0
+TX100309,2026-05-11 18:42:00,affiliate_network,APAC,Apparel,49.08,4,196.32,5,0
+TX101317,2026-05-11 20:28:00,web_store_eu,LATAM,Toys,26.34,1,26.34,3,0
+TX100260,2026-05-12 02:05:00,web_store_apac,North America,Grocery,19.0,1,19.0,4,0
+TX101385,2026-05-12 02:25:00,web_store_eu,LATAM,Beauty,28.37,3,85.11,5,0
+TX101113,2026-05-12 03:42:00,marketplace_etsy,MEA,Toys,28.37,3,85.1,4,0
+TX101166,2026-05-12 03:45:00,email_campaigns,North America,Apparel,63.6,4,254.4,5,0
+TX101044,2026-05-12 04:00:00,retail_pos_partners,Europe,Electronics,278.96,1,278.96,4,0
+TX100173,2026-05-12 07:43:00,marketplace_amazon,North America,Sports,50.77,4,203.07,4,1
+TX100327,2026-05-12 07:52:00,social_instagram_ads,LATAM,Apparel,42.5,5,212.52,4,1
+TX100896,2026-05-12 09:48:00,mobile_app_android,MEA,Sports,46.78,1,46.78,5,0
+TX101407,2026-05-12 10:03:00,mobile_app_ios,APAC,Grocery,15.84,1,15.84,4,0
+TX100398,2026-05-12 12:32:00,mobile_app_android,North America,Grocery,28.79,2,57.59,4,0
+TX100637,2026-05-12 13:07:00,mobile_app_ios,Europe,Electronics,360.51,1,360.51,4,0
+TX100287,2026-05-12 13:54:00,web_store_apac,APAC,Grocery,25.83,3,77.49,5,0
+TX100653,2026-05-12 17:29:00,mobile_app_android,APAC,Sports,70.06,3,210.18,5,0
+TX101097,2026-05-12 18:25:00,mobile_app_ios,APAC,Sports,83.66,1,83.66,3,1
+TX100723,2026-05-13 00:13:00,email_campaigns,Europe,Grocery,25.66,2,51.31,4,0
+TX101074,2026-05-13 01:36:00,web_store_eu,Europe,Grocery,19.89,1,19.89,5,0
+TX100048,2026-05-13 01:41:00,web_store_eu,MEA,Grocery,31.71,3,95.13,4,0
+TX100561,2026-05-13 14:46:00,social_instagram_ads,LATAM,Toys,30.69,3,92.06,4,0
+TX100776,2026-05-13 15:08:00,web_store_apac,APAC,Apparel,58.25,1,58.25,4,0
+TX101293,2026-05-13 16:06:00,web_store_eu,LATAM,Electronics,178.18,1,178.18,4,0
+TX101072,2026-05-13 16:42:00,email_campaigns,North America,Toys,33.78,1,33.78,5,0
+TX100307,2026-05-13 17:43:00,marketplace_amazon,APAC,Home & Kitchen,64.01,3,192.02,4,0
+TX101342,2026-05-13 19:23:00,mobile_app_ios,MEA,Home & Kitchen,64.23,1,64.23,4,0
+TX100605,2026-05-13 20:50:00,marketplace_amazon,North America,Electronics,60.12,1,60.12,4,0
+TX100043,2026-05-13 21:27:00,marketplace_etsy,North America,Beauty,24.7,1,24.7,5,0
+TX101005,2026-05-13 22:10:00,affiliate_network,LATAM,Electronics,250.23,2,500.47,5,0
+TX100330,2026-05-13 22:41:00,mobile_app_ios,APAC,Electronics,264.0,1,264.0,3,0
+TX100766,2026-05-14 00:32:00,email_campaigns,MEA,Books,19.56,4,78.26,4,0
+TX100154,2026-05-14 00:36:00,mobile_app_android,LATAM,Apparel,33.27,1,33.27,5,0
+TX100292,2026-05-14 04:16:00,email_campaigns,Europe,Apparel,50.78,2,101.56,4,0
+TX101386,2026-05-14 05:17:00,web_store_apac,North America,Sports,54.1,2,108.21,1,1
+TX100915,2026-05-14 05:41:00,mobile_app_android,MEA,Grocery,22.74,1,22.74,4,1
+TX100658,2026-05-14 06:33:00,email_campaigns,APAC,Books,19.92,3,59.75,4,0
+TX100792,2026-05-14 12:32:00,marketplace_amazon,Europe,Sports,63.19,1,63.19,4,0
+TX100850,2026-05-14 12:42:00,web_store_apac,Europe,Apparel,59.97,1,59.97,5,0
+TX100820,2026-05-14 13:58:00,web_store_apac,Europe,Electronics,178.23,1,178.23,4,0
+TX101156,2026-05-14 14:29:00,affiliate_network,MEA,Electronics,255.43,2,510.85,4,1
+TX100706,2026-05-14 15:09:00,affiliate_network,MEA,Beauty,31.73,1,31.73,5,0
+TX100129,2026-05-14 18:01:00,web_store_eu,APAC,Apparel,60.62,2,121.24,2,0
+TX100086,2026-05-14 19:27:00,affiliate_network,North America,Sports,47.71,1,47.71,4,0
+TX101219,2026-05-15 00:39:00,web_store_apac,APAC,Apparel,50.68,1,50.68,5,0
+TX100365,2026-05-15 00:47:00,email_campaigns,Europe,Sports,37.65,3,112.96,4,0
+TX100156,2026-05-15 02:25:00,web_store_us,LATAM,Sports,64.81,4,259.24,4,0
+TX101349,2026-05-15 02:57:00,web_store_us,MEA,Grocery,10.4,1,10.4,5,1
+TX100840,2026-05-15 03:48:00,social_instagram_ads,LATAM,Toys,33.03,1,33.03,5,0
+TX100627,2026-05-15 07:31:00,mobile_app_ios,LATAM,Grocery,28.41,2,56.82,3,0
+TX100981,2026-05-15 08:04:00,affiliate_network,LATAM,Electronics,153.09,2,306.18,3,0
+TX100085,2026-05-15 08:11:00,social_tiktok_ads,North America,Toys,21.74,3,65.22,5,0
+TX101209,2026-05-15 11:50:00,social_tiktok_ads,Europe,Sports,34.71,2,69.43,5,0
+TX101376,2026-05-15 12:23:00,web_store_us,North America,Toys,18.21,4,72.86,4,0
+TX100336,2026-05-15 15:38:00,affiliate_network,North America,Grocery,16.42,1,16.42,5,0
+TX101328,2026-05-15 15:38:00,affiliate_network,North America,Home & Kitchen,54.93,1,54.93,4,0
+TX100978,2026-05-15 16:16:00,web_store_eu,APAC,Sports,85.05,2,170.09,4,0
+TX100167,2026-05-15 17:14:00,mobile_app_android,LATAM,Beauty,24.38,3,73.13,4,0
+TX101379,2026-05-15 20:30:00,marketplace_amazon,MEA,Beauty,26.11,4,104.43,4,0
+TX101196,2026-05-15 21:21:00,social_tiktok_ads,North America,Toys,30.21,2,60.43,4,0
+TX100245,2026-05-15 21:55:00,social_tiktok_ads,Europe,Sports,44.19,1,44.19,3,1
+TX100248,2026-05-15 23:04:00,retail_pos_partners,MEA,Books,22.14,4,88.54,4,0
+TX100559,2026-05-15 23:09:00,mobile_app_android,North America,Books,21.39,3,64.18,3,0
+TX100184,2026-05-16 00:40:00,mobile_app_android,LATAM,Grocery,23.08,2,46.16,5,0
+TX100678,2026-05-16 01:29:00,web_store_apac,APAC,Home & Kitchen,55.55,3,166.64,3,0
+TX100368,2026-05-16 04:54:00,retail_pos_partners,Europe,Grocery,13.62,5,68.08,4,0
+TX100467,2026-05-16 05:34:00,social_tiktok_ads,APAC,Apparel,27.78,4,111.1,5,0
+TX101447,2026-05-16 08:02:00,email_campaigns,LATAM,Electronics,231.13,1,231.13,3,0
+TX100170,2026-05-16 14:44:00,affiliate_network,LATAM,Sports,49.91,1,49.91,4,0
+TX100834,2026-05-16 15:47:00,social_instagram_ads,APAC,Grocery,12.53,3,37.6,4,0
+TX100425,2026-05-16 18:43:00,retail_pos_partners,APAC,Sports,54.73,1,54.73,4,0
+TX101330,2026-05-16 21:36:00,marketplace_amazon,APAC,Books,17.21,1,17.21,5,0
+TX100994,2026-05-16 22:33:00,marketplace_etsy,LATAM,Apparel,36.73,2,73.47,3,0
+TX101184,2026-05-16 22:55:00,mobile_app_android,Europe,Grocery,14.65,1,14.65,5,0
+TX100148,2026-05-16 23:12:00,mobile_app_android,Europe,Sports,63.7,2,127.39,5,0
+TX101223,2026-05-17 00:30:00,marketplace_amazon,North America,Grocery,33.19,1,33.19,4,0
+TX100074,2026-05-17 01:19:00,social_tiktok_ads,LATAM,Apparel,53.35,3,160.04,5,0
+TX100735,2026-05-17 01:27:00,web_store_apac,Europe,Beauty,25.32,1,25.32,4,1
+TX100992,2026-05-17 01:33:00,marketplace_etsy,MEA,Beauty,29.73,2,59.45,4,0
+TX100945,2026-05-17 03:01:00,mobile_app_ios,LATAM,Books,21.91,1,21.91,3,1
+TX101444,2026-05-17 06:08:00,retail_pos_partners,APAC,Beauty,32.43,3,97.29,4,0
+TX100675,2026-05-17 06:52:00,web_store_us,Europe,Electronics,314.16,3,942.49,3,0
+TX100254,2026-05-17 08:39:00,affiliate_network,North America,Apparel,42.6,1,42.6,5,1
+TX101368,2026-05-17 11:18:00,web_store_us,Europe,Books,21.46,2,42.92,4,0
+TX100392,2026-05-17 11:32:00,retail_pos_partners,LATAM,Toys,35.47,3,106.4,4,0
+TX101297,2026-05-17 12:42:00,web_store_eu,MEA,Home & Kitchen,52.82,3,158.47,4,0
+TX101023,2026-05-17 16:53:00,mobile_app_android,Europe,Grocery,23.99,2,47.97,5,0
+TX101000,2026-05-17 18:43:00,social_instagram_ads,MEA,Apparel,53.98,3,161.93,3,0
+TX101043,2026-05-17 22:28:00,web_store_eu,APAC,Sports,52.38,3,157.15,3,0
+TX100041,2026-05-17 23:59:00,social_instagram_ads,MEA,Beauty,29.63,1,29.63,4,0
+TX100621,2026-05-18 03:37:00,mobile_app_ios,North America,Home & Kitchen,47.6,1,47.6,5,0
+TX100315,2026-05-18 04:04:00,social_instagram_ads,Europe,Beauty,40.55,1,40.55,4,0
+TX100324,2026-05-18 08:03:00,web_store_apac,MEA,Beauty,31.6,4,126.39,4,0
+TX100952,2026-05-18 08:30:00,retail_pos_partners,LATAM,Home & Kitchen,48.3,2,96.61,4,0
+TX100234,2026-05-18 12:29:00,web_store_eu,MEA,Beauty,34.75,1,34.75,5,0
+TX100923,2026-05-18 14:10:00,mobile_app_ios,MEA,Apparel,40.45,5,202.26,4,0
+TX100120,2026-05-18 14:11:00,web_store_us,LATAM,Home & Kitchen,43.2,4,172.81,5,1
+TX100451,2026-05-18 15:09:00,affiliate_network,Europe,Beauty,24.65,4,98.59,4,0
+TX100445,2026-05-18 15:20:00,email_campaigns,Europe,Home & Kitchen,58.13,2,116.26,5,0
+TX100666,2026-05-18 18:06:00,mobile_app_ios,Europe,Home & Kitchen,99.18,1,99.18,5,1
+TX101415,2026-05-18 18:38:00,web_store_apac,LATAM,Books,18.01,5,90.05,4,0
+TX100662,2026-05-18 20:52:00,affiliate_network,MEA,Home & Kitchen,63.19,1,63.19,4,0
+TX100098,2026-05-19 00:02:00,mobile_app_android,Europe,Beauty,10.48,1,10.48,5,0
+TX101178,2026-05-19 01:42:00,email_campaigns,North America,Toys,30.01,1,30.01,5,0
+TX100394,2026-05-19 03:03:00,mobile_app_android,Europe,Grocery,8.59,2,17.17,4,0
+TX101212,2026-05-19 03:52:00,social_tiktok_ads,APAC,Sports,48.45,1,48.45,3,0
+TX101354,2026-05-19 06:59:00,social_instagram_ads,LATAM,Electronics,216.3,2,432.6,3,1
+TX100207,2026-05-19 07:33:00,marketplace_amazon,LATAM,Toys,0.4742,1,23.71,5,0
+TX100189,2026-05-19 12:12:00,mobile_app_ios,MEA,Grocery,20.55,2,41.1,4,0
+TX101002,2026-05-19 23:09:00,marketplace_etsy,Europe,Books,19.23,1,19.23,3,0
+TX100271,2026-05-19 23:40:00,web_store_apac,North America,Books,15.1,6,90.63,5,0
+TX100274,2026-05-20 05:48:00,marketplace_amazon,North America,Home & Kitchen,62.28,5,311.42,4,0
+TX100497,2026-05-20 06:21:00,affiliate_network,APAC,Books,17.79,3,53.38,4,0
+TX101387,2026-05-20 06:33:00,web_store_eu,LATAM,Apparel,30.85,2,61.69,5,0
+TX100006,2026-05-20 06:48:00,marketplace_etsy,APAC,Toys,25.5,2,50.99,4,0
+TX100067,2026-05-20 08:18:00,web_store_eu,MEA,Home & Kitchen,64.7,1,64.7,4,0
+TX101422,2026-05-20 08:19:00,mobile_app_ios,North America,Electronics,226.72,1,226.72,4,0
+TX100380,2026-05-20 09:10:00,web_store_us,MEA,Home & Kitchen,62.35,1,62.35,4,0
+TX101057,2026-05-20 11:49:00,web_store_us,MEA,Grocery,13.99,1,13.99,4,0
+TX100770,2026-05-20 16:48:00,email_campaigns,Europe,Sports,55.06,2,110.13,5,0
+TX100828,2026-05-20 17:57:00,social_instagram_ads,LATAM,Toys,23.82,1,23.82,5,0
+TX100911,2026-05-20 18:36:00,email_campaigns,MEA,Sports,87.84,1,87.84,5,1
+TX100293,2026-05-20 20:04:00,mobile_app_ios,MEA,Apparel,44.69,3,134.07,5,0
+TX101307,2026-05-20 20:40:00,social_instagram_ads,LATAM,Electronics,158.51,3,475.52,5,0
+TX101323,2026-05-20 23:37:00,social_tiktok_ads,MEA,Grocery,28.61,1,28.61,4,0
+TX100972,2026-05-21 02:17:00,marketplace_amazon,North America,Beauty,37.41,2,74.82,5,0
+TX100318,2026-05-21 05:53:00,affiliate_network,Europe,Books,21.78,1,21.78,5,0
+TX100758,2026-05-21 08:47:00,social_tiktok_ads,APAC,Toys,37.2,1,37.2,5,0
+TX100645,2026-05-21 08:49:00,social_instagram_ads,APAC,Apparel,24.82,3,74.46,3,0
+TX101014,2026-05-21 10:14:00,marketplace_etsy,North America,Home & Kitchen,58.4,2,116.8,2,0
+TX100934,2026-05-21 11:38:00,mobile_app_ios,Europe,Apparel,40.74,1,40.74,4,0
+TX100064,2026-05-21 14:53:00,mobile_app_ios,APAC,Toys,26.75,2,53.5,4,0
+TX101237,2026-05-21 15:24:00,affiliate_network,MEA,Beauty,24.98,1,24.98,5,0
+TX101428,2026-05-21 18:03:00,affiliate_network,APAC,Electronics,258.63,2,517.25,5,0
+TX101052,2026-05-21 20:46:00,marketplace_etsy,APAC,Sports,55.05,1,55.05,5,0
+TX101180,2026-05-21 21:18:00,web_store_eu,Europe,Books,29.89,2,59.78,5,0
+TX100912,2026-05-22 00:20:00,marketplace_amazon,LATAM,Toys,30.28,3,90.85,4,0
+TX101270,2026-05-22 01:44:00,marketplace_amazon,APAC,Sports,63.11,3,189.34,5,0
+TX100582,2026-05-22 02:36:00,retail_pos_partners,LATAM,Grocery,23.05,1,23.05,5,0
+TX101017,2026-05-22 05:54:00,marketplace_amazon,LATAM,Grocery,26.13,2,52.26,5,0
+TX100939,2026-05-22 08:59:00,affiliate_network,North America,Apparel,50.97,2,101.95,4,0
+TX101115,2026-05-22 11:39:00,marketplace_amazon,APAC,Electronics,202.39,1,202.39,3,1
+TX101019,2026-05-22 12:06:00,retail_pos_partners,Europe,Home & Kitchen,49.31,1,49.31,4,0
+TX100537,2026-05-22 13:17:00,social_instagram_ads,North America,Apparel,23.42,2,46.84,4,0
+TX100578,2026-05-22 15:18:00,social_instagram_ads,MEA,Apparel,57.18,3,171.54,4,0
+TX100886,2026-05-22 17:34:00,marketplace_amazon,North America,Home & Kitchen,55.8,1,55.8,5,0
+TX100971,2026-05-22 21:02:00,social_tiktok_ads,MEA,Beauty,25.03,1,25.03,4,0
+TX100205,2026-05-22 22:19:00,web_store_eu,LATAM,Home & Kitchen,39.72,1,39.72,4,0
+TX100500,2026-05-22 23:50:00,email_campaigns,LATAM,Grocery,20.48,2,40.97,5,0
+TX101073,2026-05-23 01:12:00,web_store_eu,Europe,Electronics,183.25,2,366.51,4,0
+TX100208,2026-05-23 02:39:00,marketplace_etsy,Europe,Apparel,41.38,4,165.53,5,0
+TX101345,2026-05-23 05:42:00,web_store_apac,LATAM,Grocery,23.27,1,23.27,4,0
+TX101348,2026-05-23 05:50:00,web_store_eu,MEA,Electronics,205.34,1,205.34,4,0
+TX100743,2026-05-23 08:25:00,social_instagram_ads,North America,Grocery,29.13,1,29.13,3,0
+TX101242,2026-05-23 09:25:00,marketplace_amazon,LATAM,Home & Kitchen,61.0,1,61.0,3,0
+TX100543,2026-05-23 12:20:00,mobile_app_ios,APAC,Grocery,30.6,1,30.6,4,0
+TX101302,2026-05-23 14:04:00,web_store_us,APAC,Sports,67.87,1,67.87,5,0
+TX101315,2026-05-23 17:02:00,social_instagram_ads,Europe,Sports,54.45,4,217.8,5,0
+TX101339,2026-05-23 19:44:00,social_instagram_ads,Europe,Books,17.95,2,35.9,5,0
+TX101326,2026-05-23 20:03:00,mobile_app_ios,North America,Apparel,58.14,1,58.14,4,0
+TX101170,2026-05-23 22:03:00,web_store_apac,Europe,Apparel,28.14,1,28.14,5,0
+TX100078,2026-05-23 23:59:00,web_store_apac,North America,Books,11.84,3,35.52,5,0
+TX101177,2026-05-24 04:03:00,affiliate_network,North America,Beauty,33.74,4,134.97,5,0
+TX100904,2026-05-24 07:39:00,social_tiktok_ads,Europe,Apparel,31.79,4,127.17,4,0
+TX100269,2026-05-24 08:44:00,retail_pos_partners,North America,Sports,63.35,1,63.35,5,0
+TX101419,2026-05-24 12:18:00,social_instagram_ads,Europe,Apparel,63.97,1,63.97,4,0
+TX101149,2026-05-24 12:31:00,social_tiktok_ads,APAC,Grocery,25.92,2,51.84,4,0
+TX101259,2026-05-24 14:32:00,retail_pos_partners,MEA,Books,23.13,2,46.27,3,0
+TX100998,2026-05-24 15:27:00,social_instagram_ads,APAC,Toys,26.66,2,53.33,4,0
+TX100352,2026-05-24 15:44:00,social_instagram_ads,APAC,Books,9.18,4,36.73,5,0
+TX100991,2026-05-24 16:17:00,affiliate_network,LATAM,Sports,64.71,6,388.26,5,0
+TX100905,2026-05-24 21:51:00,mobile_app_android,North America,Beauty,23.43,1,23.43,3,0
+TX100437,2026-05-24 23:55:00,web_store_us,LATAM,Books,21.11,1,21.11,2,1
+TX101191,2026-05-25 00:07:00,affiliate_network,APAC,Beauty,21.92,1,21.92,5,0
+TX101390,2026-05-25 02:01:00,email_campaigns,APAC,Electronics,173.77,1,173.77,5,1
+TX101344,2026-05-25 03:50:00,mobile_app_ios,North America,Sports,38.61,1,38.61,4,0
+TX100239,2026-05-25 03:54:00,web_store_us,APAC,Books,19.05,3,57.16,3,0
+TX101150,2026-05-25 07:02:00,social_instagram_ads,Europe,Apparel,58.39,2,116.78,5,0
+TX101048,2026-05-25 08:52:00,social_tiktok_ads,Europe,Grocery,19.8,1,19.8,3,1
+TX100053,2026-05-25 09:13:00,social_tiktok_ads,Europe,Grocery,20.89,3,62.66,4,0
+TX101217,2026-05-25 09:17:00,mobile_app_ios,Europe,Toys,39.99,1,39.99,5,1
+TX100046,2026-05-25 17:28:00,web_store_eu,Europe,Beauty,24.89,1,24.89,3,0
+TX100488,2026-05-25 18:46:00,affiliate_network,North America,Electronics,250.55,1,250.55,4,0
+TX101432,2026-05-25 20:11:00,email_campaigns,MEA,Home & Kitchen,50.37,1,50.37,5,0
+TX100010,2026-05-25 22:04:00,email_campaigns,MEA,Toys,19.9,1,19.9,4,0
+TX101446,2026-05-26 03:02:00,social_instagram_ads,North America,Books,20.31,1,20.31,3,0
+TX100223,2026-05-26 04:50:00,retail_pos_partners,Europe,Books,21.42,2,42.83,4,1
+TX100807,2026-05-26 11:45:00,mobile_app_ios,MEA,Sports,41.63,1,41.63,5,0
+TX101111,2026-05-26 17:39:00,social_instagram_ads,MEA,Books,14.52,2,29.04,5,0
+TX100677,2026-05-26 20:28:00,web_store_eu,North America,Electronics,241.91,1,241.91,4,0
+TX100382,2026-05-26 20:35:00,mobile_app_android,APAC,Home & Kitchen,34.23,1,34.23,4,0
+TX100969,2026-05-26 21:59:00,social_instagram_ads,North America,Grocery,21.37,1,21.37,5,0
+TX100607,2026-05-26 22:58:00,social_instagram_ads,LATAM,Electronics,175.65,2,351.3,3,0
+TX100987,2026-05-27 07:12:00,retail_pos_partners,APAC,Beauty,28.61,3,85.82,4,0
+TX100489,2026-05-27 10:19:00,email_campaigns,LATAM,Beauty,28.78,1,28.78,5,0
+TX100888,2026-05-27 17:53:00,mobile_app_ios,North America,Books,15.93,1,15.93,3,0
+TX100855,2026-05-27 19:45:00,retail_pos_partners,Europe,Beauty,28.72,4,114.87,4,0
+TX100075,2026-05-27 21:15:00,marketplace_amazon,APAC,Electronics,284.87,2,569.74,4,0
+TX100068,2026-05-27 21:40:00,affiliate_network,APAC,Beauty,30.26,4,121.04,4,0
+TX100059,2026-05-27 21:45:00,affiliate_network,APAC,Toys,26.94,3,80.82,4,0
+TX100902,2026-05-27 23:47:00,social_tiktok_ads,APAC,Home & Kitchen,44.93,1,44.93,5,1
+TX100475,2026-05-28 01:08:00,social_instagram_ads,MEA,Beauty,34.08,1,34.08,5,0
+TX100919,2026-05-28 01:35:00,web_store_us,MEA,Books,20.63,1,20.63,4,0
+TX100333,2026-05-28 04:35:00,web_store_eu,APAC,Electronics,179.64,2,359.28,4,0
+TX101244,2026-05-28 04:56:00,social_instagram_ads,North America,Electronics,210.56,4,842.23,5,0
+TX100314,2026-05-28 10:49:00,marketplace_amazon,Europe,Sports,38.65,1,38.65,4,0
+TX100272,2026-05-28 12:26:00,web_store_us,MEA,Home & Kitchen,48.02,3,144.07,3,0
+TX100050,2026-05-28 12:57:00,marketplace_etsy,LATAM,Grocery,24.44,1,24.44,5,0
+TX100587,2026-05-28 13:06:00,web_store_us,MEA,Grocery,19.93,1,19.93,4,0
+TX100765,2026-05-28 14:19:00,marketplace_amazon,APAC,Grocery,19.98,3,59.94,4,0
+TX100941,2026-05-28 14:38:00,retail_pos_partners,North America,Sports,40.61,1,40.61,4,0
+TX100845,2026-05-28 14:52:00,mobile_app_ios,LATAM,Home & Kitchen,66.28,1,66.28,5,0
+TX100367,2026-05-28 19:18:00,mobile_app_android,LATAM,Sports,38.09,1,38.09,5,0
+TX100186,2026-05-29 03:29:00,social_tiktok_ads,North America,Books,10.84,2,21.68,5,0
+TX100898,2026-05-29 04:47:00,social_instagram_ads,MEA,Apparel,29.33,1,29.33,4,0
+TX101438,2026-05-29 06:50:00,mobile_app_ios,MEA,Apparel,51.44,2,102.88,4,0
+TX101093,2026-05-29 06:54:00,mobile_app_android,APAC,Electronics,207.35,1,207.35,5,0
+TX100116,2026-05-29 08:27:00,affiliate_network,LATAM,Beauty,34.75,3,104.24,5,0
+TX100966,2026-05-29 11:05:00,web_store_eu,APAC,Home & Kitchen,41.08,3,123.24,3,0
+TX100942,2026-05-29 13:38:00,social_instagram_ads,Europe,Grocery,23.05,1,23.05,4,0
+TX100556,2026-05-29 16:47:00,web_store_us,APAC,Home & Kitchen,39.76,1,39.76,4,0
+TX100231,2026-05-29 20:04:00,social_tiktok_ads,MEA,Toys,36.02,2,72.04,4,0
+TX100791,2026-05-29 22:56:00,web_store_us,Europe,Electronics,159.58,2,319.15,5,0
+TX101294,2026-05-29 23:18:00,email_campaigns,APAC,Grocery,20.27,1,20.27,3,0
+TX101033,2026-05-30 00:35:00,marketplace_etsy,MEA,Sports,64.0,1,64.0,4,0
+TX100689,2026-05-30 05:06:00,social_instagram_ads,MEA,Toys,40.03,2,80.05,5,0
+TX101229,2026-05-30 07:09:00,email_campaigns,LATAM,Grocery,16.89,1,16.89,3,0
+TX101147,2026-05-30 07:43:00,mobile_app_android,MEA,Beauty,28.67,1,28.67,3,0
+TX101022,2026-05-30 07:47:00,web_store_eu,APAC,Books,22.91,1,22.91,4,0
+TX100615,2026-05-30 12:05:00,web_store_apac,North America,Grocery,25.65,2,51.3,4,0
+TX101394,2026-05-30 15:23:00,mobile_app_android,APAC,Apparel,39.06,2,78.12,5,0
+TX100730,2026-05-30 17:03:00,social_tiktok_ads,MEA,Books,20.64,2,41.28,4,0
+TX100435,2026-05-30 17:47:00,web_store_us,MEA,Home & Kitchen,76.05,1,76.05,5,0
+TX100695,2026-05-30 19:14:00,web_store_us,North America,Home & Kitchen,53.83,2,107.67,3,0
+TX100809,2026-05-31 00:00:00,mobile_app_ios,APAC,Grocery,24.18,2,48.35,4,0
+TX101367,2026-05-31 02:35:00,web_store_eu,LATAM,Grocery,21.88,4,87.51,4,0
+TX101397,2026-05-31 03:02:00,retail_pos_partners,Europe,Apparel,58.14,1,58.14,4,0
+TX100163,2026-05-31 05:35:00,email_campaigns,Europe,Home & Kitchen,88.08,1,88.08,4,0
+TX100040,2026-05-31 08:42:00,marketplace_amazon,MEA,Home & Kitchen,73.37,5,366.85,5,0
+TX100575,2026-05-31 09:07:00,web_store_apac,North America,Toys,33.18,1,33.18,5,0
+TX100756,2026-05-31 11:31:00,marketplace_etsy,North America,Home & Kitchen,63.58,4,254.32,5,0
+TX100214,2026-05-31 12:36:00,marketplace_etsy,North America,Grocery,22.83,4,91.31,4,1
+TX100335,2026-05-31 13:40:00,mobile_app_android,North America,Home & Kitchen,88.95,4,355.81,4,0
+TX100393,2026-05-31 14:07:00,social_tiktok_ads,APAC,Home & Kitchen,71.35,1,71.35,4,0
+TX101137,2026-05-31 18:09:00,email_campaigns,LATAM,Beauty,15.65,1,15.65,4,0
+TX101089,2026-05-31 18:34:00,retail_pos_partners,MEA,Toys,19.17,1,19.17,5,0
+TX100881,2026-05-31 20:39:00,web_store_eu,LATAM,Toys,28.17,3,84.5,5,0
+TX101280,2026-05-31 21:28:00,social_instagram_ads,LATAM,Books,17.9,4,71.61,5,0
+TX100343,2026-05-31 23:42:00,marketplace_amazon,APAC,Home & Kitchen,82.49,3,247.46,4,0
+TX100937,2026-06-01 01:08:00,web_store_apac,North America,Books,17.11,4,68.43,4,0
+TX100596,2026-06-01 04:45:00,email_campaigns,Europe,Apparel,31.93,1,31.93,4,0
+TX100241,2026-06-01 04:50:00,web_store_us,APAC,Electronics,165.51,1,165.51,5,0
+TX100983,2026-06-01 09:05:00,marketplace_amazon,APAC,Electronics,227.86,3,683.59,4,0
+TX100470,2026-06-01 14:22:00,marketplace_etsy,Europe,Books,18.07,2,36.14,4,0
+TX101118,2026-06-01 19:59:00,web_store_eu,North America,Home & Kitchen,44.76,2,89.51,5,1
+TX100388,2026-06-01 21:25:00,mobile_app_android,LATAM,Sports,66.1,4,264.39,4,0
+TX100304,2026-06-01 22:28:00,web_store_eu,North America,Apparel,37.0,3,111.01,4,0
+TX100461,2026-06-02 00:47:00,mobile_app_android,LATAM,Electronics,224.82,1,224.82,4,0
+TX100907,2026-06-02 03:12:00,web_store_eu,North America,Sports,50.96,1,50.96,4,0
+TX101274,2026-06-02 04:39:00,social_tiktok_ads,APAC,Home & Kitchen,53.86,2,107.72,5,0
+TX101300,2026-06-02 05:49:00,mobile_app_android,APAC,Books,15.99,2,31.98,3,0
+TX100180,2026-06-02 10:07:00,social_instagram_ads,APAC,Home & Kitchen,63.14,2,126.28,5,1
+TX101165,2026-06-02 10:44:00,mobile_app_ios,North America,Grocery,21.4,1,21.4,4,0
+TX100024,2026-06-02 17:55:00,affiliate_network,MEA,Grocery,18.37,2,36.75,4,0
+TX100844,2026-06-02 19:12:00,retail_pos_partners,North America,Books,15.75,1,15.75,5,0
+TX100763,2026-06-02 19:51:00,web_store_apac,Europe,Electronics,340.13,1,340.13,5,0
+TX100549,2026-06-02 21:09:00,email_campaigns,Europe,Sports,45.62,2,91.23,4,0
+TX100219,2026-06-02 21:48:00,email_campaigns,MEA,Beauty,19.05,2,38.11,3,0
+TX100342,2026-06-02 23:01:00,email_campaigns,APAC,Books,14.49,1,14.49,4,0
+TX100247,2026-06-03 01:08:00,marketplace_amazon,Europe,Electronics,219.67,4,878.66,5,0
+TX101271,2026-06-03 01:40:00,affiliate_network,MEA,Sports,49.93,3,149.79,5,0
+TX101036,2026-06-03 02:27:00,marketplace_etsy,Europe,Books,23.51,3,70.54,4,0
+TX100019,2026-06-03 04:15:00,email_campaigns,Europe,Grocery,29.55,2,59.09,4,0
+TX100672,2026-06-03 05:01:00,marketplace_etsy,APAC,Electronics,254.14,3,762.42,5,0
+TX100631,2026-06-03 06:02:00,affiliate_network,North America,Home & Kitchen,88.05,1,88.05,3,0
+TX100997,2026-06-03 07:17:00,mobile_app_android,MEA,Apparel,49.42,1,49.42,5,0
+TX101398,2026-06-03 11:11:00,marketplace_amazon,LATAM,Apparel,31.63,1,31.63,5,0
+TX100925,2026-06-03 11:14:00,social_instagram_ads,North America,Beauty,47.29,2,94.57,4,0
+TX100493,2026-06-03 11:32:00,email_campaigns,APAC,Toys,38.14,1,38.14,5,0
+TX100742,2026-06-03 12:41:00,mobile_app_android,LATAM,Toys,28.88,2,57.75,3,0
+TX100727,2026-06-03 14:29:00,web_store_apac,North America,Grocery,16.27,1,16.27,3,0
+TX101021,2026-06-03 19:09:00,marketplace_etsy,North America,Home & Kitchen,72.49,3,217.48,4,0
+TX100769,2026-06-03 20:45:00,mobile_app_android,APAC,Toys,24.3,2,48.6,5,1
+TX101277,2026-06-03 22:15:00,social_instagram_ads,Europe,Toys,34.62,1,34.62,4,0
+TX100017,2026-06-04 02:13:00,web_store_us,LATAM,Toys,24.08,1,24.08,5,0
+TX100353,2026-06-04 02:46:00,social_instagram_ads,MEA,Toys,22.92,6,137.53,3,0
+TX101289,2026-06-04 03:16:00,mobile_app_android,APAC,Toys,29.99,3,89.97,5,0
+TX101308,2026-06-04 04:44:00,web_store_us,LATAM,Electronics,97.91,1,97.91,3,0
+TX100687,2026-06-04 05:01:00,affiliate_network,LATAM,Toys,45.94,2,91.87,5,0
+TX100860,2026-06-04 05:18:00,email_campaigns,Europe,Electronics,289.72,1,289.72,4,0
+TX100079,2026-06-04 05:50:00,marketplace_amazon,Europe,Books,24.98,4,99.92,4,0
+TX101356,2026-06-04 06:21:00,social_instagram_ads,APAC,Beauty,24.99,4,99.97,3,0
+TX100536,2026-06-04 09:17:00,marketplace_etsy,Europe,Apparel,40.73,2,81.46,4,0
+TX101430,2026-06-04 11:26:00,marketplace_amazon,North America,Apparel,58.62,2,117.24,4,0
+TX101047,2026-06-04 12:04:00,web_store_eu,North America,Apparel,38.4,3,115.21,4,0
+TX101207,2026-06-04 13:05:00,mobile_app_android,North America,Toys,38.12,2,76.24,3,0
+TX100275,2026-06-04 14:42:00,affiliate_network,North America,Electronics,237.95,1,237.95,4,0
+TX100183,2026-06-04 17:08:00,social_instagram_ads,Europe,Electronics,258.92,3,776.77,5,0
+TX100748,2026-06-04 23:26:00,mobile_app_android,APAC,Grocery,20.65,2,41.29,5,1
+TX100681,2026-06-05 08:28:00,marketplace_amazon,Europe,Beauty,37.64,3,112.91,4,0
+TX100913,2026-06-05 11:08:00,mobile_app_ios,LATAM,Beauty,27.43,1,27.43,2,0
+TX100122,2026-06-05 13:16:00,marketplace_amazon,LATAM,Toys,22.41,3,67.23,3,0
+TX100190,2026-06-05 13:21:00,affiliate_network,North America,Apparel,50.9,1,50.9,5,0
+TX100047,2026-06-05 14:15:00,web_store_apac,Europe,Books,14.53,1,14.53,5,0
+TX100871,2026-06-05 17:16:00,marketplace_etsy,LATAM,Electronics,210.21,1,210.21,4,0
+TX101065,2026-06-05 19:58:00,marketplace_amazon,LATAM,Toys,10.36,1,10.36,3,0
+TX100958,2026-06-05 21:25:00,affiliate_network,MEA,Toys,29.62,4,118.47,4,0
+TX100150,2026-06-05 23:37:00,mobile_app_ios,LATAM,Beauty,33.72,3,101.15,5,0
+TX101396,2026-06-06 05:11:00,web_store_apac,MEA,Apparel,52.72,2,105.45,5,0
+TX100094,2026-06-06 06:27:00,social_tiktok_ads,APAC,Electronics,312.79,2,625.59,5,0
+TX101346,2026-06-06 06:27:00,web_store_us,APAC,Electronics,180.39,1,180.39,3,0
+TX101071,2026-06-06 10:26:00,social_tiktok_ads,MEA,Apparel,42.45,4,169.78,4,0
+TX100858,2026-06-06 13:51:00,social_instagram_ads,MEA,Books,12.27,1,12.27,4,0
+TX100909,2026-06-06 19:04:00,email_campaigns,North America,Beauty,25.21,4,100.84,5,0
+TX100263,2026-06-06 19:19:00,email_campaigns,North America,Books,24.62,5,123.1,4,0
+TX100632,2026-06-06 20:45:00,web_store_us,MEA,Books,15.18,2,30.35,4,0
+TX100427,2026-06-06 22:05:00,web_store_apac,North America,Sports,36.52,5,182.59,3,0
+TX100191,2026-06-06 23:19:00,social_tiktok_ads,North America,Sports,42.95,1,42.95,4,0
+TX100879,2026-06-07 06:48:00,marketplace_amazon,APAC,Toys,40.87,1,40.87,3,0
+TX100664,2026-06-07 08:54:00,email_campaigns,Europe,Apparel,42.78,1,42.78,4,0
+TX101431,2026-06-07 09:33:00,email_campaigns,North America,Toys,24.42,1,24.42,5,0
+TX100026,2026-06-07 13:10:00,email_campaigns,North America,Toys,23.99,3,71.96,5,0
+TX100654,2026-06-07 18:50:00,web_store_us,Europe,Toys,33.27,5,166.35,2,0
+TX100540,2026-06-08 00:25:00,social_instagram_ads,Europe,Home & Kitchen,93.26,4,373.03,4,0
+TX100152,2026-06-08 00:45:00,mobile_app_ios,Europe,Toys,33.35,5,166.75,4,0
+TX101032,2026-06-08 00:49:00,retail_pos_partners,LATAM,Grocery,21.01,2,42.02,5,0
+TX100158,2026-06-08 02:15:00,web_store_apac,MEA,Apparel,40.27,1,40.27,4,0
+TX101400,2026-06-08 03:58:00,social_instagram_ads,MEA,Apparel,58.35,3,175.04,3,0
+TX100477,2026-06-08 04:42:00,marketplace_amazon,Europe,Toys,38.3,2,76.6,5,0
+TX100720,2026-06-08 07:06:00,retail_pos_partners,APAC,Sports,70.65,1,70.65,4,0
+TX100478,2026-06-08 08:03:00,social_tiktok_ads,LATAM,Beauty,16.69,2,33.38,3,0
+TX101004,2026-06-08 08:35:00,email_campaigns,LATAM,Toys,22.56,1,22.56,4,0
+TX100423,2026-06-08 09:45:00,mobile_app_android,Europe,Sports,63.5,2,127.01,4,0
+TX100700,2026-06-08 10:08:00,marketplace_etsy,APAC,Home & Kitchen,46.57,3,139.7,5,0
+TX100782,2026-06-08 13:03:00,web_store_eu,MEA,Books,17.53,1,17.53,4,0
+TX100233,2026-06-08 15:07:00,web_store_apac,North America,Electronics,209.81,1,209.81,4,0
+TX100412,2026-06-08 15:52:00,social_tiktok_ads,MEA,Grocery,18.36,1,18.36,4,0
+TX101416,2026-06-08 15:55:00,web_store_eu,Europe,Apparel,54.83,1,54.83,4,0
+TX101393,2026-06-08 18:08:00,social_tiktok_ads,LATAM,Grocery,25.26,2,50.52,4,0
+TX100438,2026-06-08 18:38:00,mobile_app_android,North America,Electronics,179.77,1,179.77,3,0
+TX101202,2026-06-08 18:46:00,retail_pos_partners,MEA,Electronics,227.89,1,227.89,5,0
+TX101247,2026-06-08 18:50:00,mobile_app_ios,APAC,Beauty,21.21,2,42.41,5,0
+TX100512,2026-06-08 21:52:00,social_instagram_ads,Europe,Beauty,28.69,2,57.38,4,0
+TX100899,2026-06-08 21:56:00,marketplace_etsy,Europe,Sports,60.05,3,180.14,4,0
+TX101214,2026-06-09 01:43:00,marketplace_etsy,North America,Home & Kitchen,73.46,1,73.46,4,0
+TX100449,2026-06-09 05:25:00,email_campaigns,LATAM,Home & Kitchen,65.11,2,130.23,4,0
+TX100694,2026-06-09 05:31:00,mobile_app_ios,MEA,Grocery,16.58,3,49.73,4,0
+TX101195,2026-06-09 09:32:00,mobile_app_android,North America,Sports,55.44,2,110.89,5,0
+TX101131,2026-06-09 10:31:00,web_store_us,MEA,Beauty,30.65,3,91.96,5,0
+TX100375,2026-06-09 12:45:00,affiliate_network,North America,Home & Kitchen,83.27,1,83.27,5,0
+TX100185,2026-06-09 17:00:00,affiliate_network,Europe,Beauty,0.4654,1,23.27,5,0
+TX101222,2026-06-09 19:57:00,mobile_app_ios,North America,Apparel,46.7,1,46.7,4,0
+TX100751,2026-06-09 22:32:00,web_store_us,North America,Apparel,38.52,4,154.09,2,0
+TX100061,2026-06-10 02:00:00,email_campaigns,LATAM,Sports,70.92,2,141.85,5,0
+TX101143,2026-06-10 04:46:00,retail_pos_partners,Europe,Home & Kitchen,52.18,3,156.54,4,0
+TX100714,2026-06-10 08:06:00,web_store_us,North America,Sports,56.16,3,168.48,5,0
+TX100348,2026-06-10 09:32:00,web_store_us,North America,Beauty,29.18,3,87.54,5,0
+TX100616,2026-06-10 11:56:00,retail_pos_partners,North America,Home & Kitchen,57.64,4,230.55,5,0
+TX100495,2026-06-10 13:02:00,marketplace_amazon,APAC,Beauty,25.65,1,25.65,4,0
+TX100665,2026-06-10 14:17:00,marketplace_amazon,APAC,Books,25.63,3,76.89,5,0
+TX100990,2026-06-10 15:57:00,social_instagram_ads,MEA,Toys,30.43,1,30.43,4,1
+TX100377,2026-06-10 20:04:00,affiliate_network,Europe,Home & Kitchen,80.49,1,80.49,5,0
+TX100480,2026-06-10 22:26:00,marketplace_amazon,MEA,Books,14.89,2,29.79,4,0
+TX101055,2026-06-11 00:10:00,web_store_eu,LATAM,Beauty,24.01,1,24.01,3,0
+TX100444,2026-06-11 02:25:00,marketplace_etsy,MEA,Books,7.61,6,45.65,4,0
+TX100121,2026-06-11 06:29:00,web_store_us,LATAM,Sports,89.91,1,89.91,5,0
+TX100570,2026-06-11 06:29:00,social_tiktok_ads,APAC,Apparel,24.52,2,49.04,4,0
+TX100649,2026-06-11 07:26:00,retail_pos_partners,Europe,Books,22.48,3,67.44,4,0
+TX100603,2026-06-11 09:21:00,mobile_app_ios,APAC,Grocery,24.38,1,24.38,5,0
+TX100434,2026-06-11 09:41:00,email_campaigns,APAC,Beauty,28.08,3,84.23,5,0
+TX101433,2026-06-11 10:52:00,web_store_eu,MEA,Apparel,61.31,2,122.63,3,0
+TX101182,2026-06-11 11:57:00,web_store_us,APAC,Home & Kitchen,51.42,2,102.84,5,0
+TX101380,2026-06-11 11:57:00,retail_pos_partners,Europe,Beauty,29.65,1,29.65,4,0
+TX100542,2026-06-11 19:44:00,email_campaigns,APAC,Apparel,7.6,3,22.79,3,0
+TX100657,2026-06-12 00:48:00,mobile_app_ios,North America,Toys,28.24,1,28.24,5,0
+TX100243,2026-06-12 04:50:00,affiliate_network,Europe,Beauty,28.51,3,85.53,5,0
+TX100441,2026-06-12 05:46:00,mobile_app_android,North America,Beauty,23.82,2,47.63,5,0
+TX100642,2026-06-12 13:17:00,mobile_app_android,North America,Home & Kitchen,48.32,3,144.96,5,0
+TX100178,2026-06-12 13:44:00,marketplace_amazon,Europe,Home & Kitchen,41.47,1,41.47,3,0
+TX101138,2026-06-12 14:34:00,marketplace_etsy,MEA,Sports,59.31,1,59.31,5,0
+TX100696,2026-06-12 19:12:00,web_store_us,North America,Grocery,17.42,6,104.5,4,1
+TX100485,2026-06-12 20:05:00,mobile_app_ios,Europe,Sports,64.73,1,64.73,4,0
+TX100841,2026-06-13 11:53:00,email_campaigns,North America,Beauty,32.14,1,32.14,5,0
+TX101135,2026-06-13 12:42:00,mobile_app_android,Europe,Beauty,40.84,1,40.84,5,1
+TX100783,2026-06-13 13:36:00,web_store_apac,Europe,Apparel,46.4,1,46.4,5,0
+TX101211,2026-06-13 15:46:00,social_instagram_ads,Europe,Apparel,44.29,2,88.58,4,0
+TX100411,2026-06-13 16:53:00,marketplace_etsy,MEA,Sports,55.29,1,55.29,4,0
+TX100421,2026-06-13 17:22:00,web_store_apac,MEA,Grocery,16.71,2,33.42,5,0
+TX100200,2026-06-13 19:44:00,web_store_eu,APAC,Grocery,13.02,2,26.04,4,0
+TX100345,2026-06-13 20:11:00,web_store_us,MEA,Toys,31.09,1,31.09,4,0
+TX101086,2026-06-13 21:10:00,web_store_apac,MEA,Books,11.16,1,11.16,5,0
+TX100117,2026-06-13 21:43:00,social_instagram_ads,LATAM,Electronics,122.17,2,244.34,5,0
+TX101291,2026-06-13 21:44:00,mobile_app_ios,MEA,Beauty,38.6,1,38.6,4,0
+TX101119,2026-06-13 22:51:00,web_store_apac,North America,Sports,61.74,1,61.74,5,0
+TX101321,2026-06-13 23:02:00,web_store_us,North America,Toys,22.86,2,45.72,5,0
+TX101399,2026-06-14 04:23:00,mobile_app_ios,APAC,Electronics,226.82,2,453.64,5,1
+TX100378,2026-06-14 04:56:00,social_instagram_ads,MEA,Grocery,24.83,1,24.83,5,0
+TX101114,2026-06-14 06:20:00,marketplace_etsy,APAC,Books,16.05,1,16.05,5,0
+TX100709,2026-06-14 08:50:00,mobile_app_ios,North America,Beauty,34.98,1,34.98,4,0
+TX101440,2026-06-14 09:44:00,web_store_apac,LATAM,Electronics,202.62,4,810.46,4,0
+TX100707,2026-06-14 10:10:00,marketplace_amazon,Europe,Home & Kitchen,84.8,3,254.39,5,0
+TX100177,2026-06-14 13:21:00,social_instagram_ads,LATAM,Home & Kitchen,62.87,3,188.61,3,1
+TX101232,2026-06-14 15:29:00,web_store_eu,North America,Grocery,33.41,2,66.81,4,0
+TX100381,2026-06-14 16:57:00,web_store_apac,Europe,Toys,30.8,1,30.8,4,1
+TX101132,2026-06-14 21:22:00,marketplace_etsy,North America,Apparel,75.41,2,150.82,4,0
+TX100619,2026-06-14 23:13:00,affiliate_network,LATAM,Apparel,57.07,1,57.07,4,0
+TX100291,2026-06-14 23:52:00,social_tiktok_ads,APAC,Beauty,28.99,2,57.97,3,0
+TX100924,2026-06-15 01:14:00,web_store_apac,LATAM,Apparel,44.73,4,178.91,5,0
+TX100908,2026-06-15 04:42:00,retail_pos_partners,APAC,Grocery,22.69,1,22.69,4,0
+TX100668,2026-06-15 06:28:00,marketplace_etsy,MEA,Home & Kitchen,38.39,4,153.56,4,0
+TX100013,2026-06-15 06:42:00,marketplace_amazon,APAC,Apparel,28.03,1,28.03,5,0
+TX101260,2026-06-15 07:11:00,marketplace_etsy,LATAM,Grocery,25.61,2,51.23,4,0
+TX100246,2026-06-15 07:37:00,web_store_us,North America,Apparel,24.34,2,48.69,5,0
+TX100778,2026-06-15 07:47:00,marketplace_amazon,Europe,Home & Kitchen,52.31,6,313.84,4,0
+TX101226,2026-06-15 09:21:00,affiliate_network,MEA,Grocery,16.28,2,32.56,4,0
+TX101395,2026-06-15 09:29:00,mobile_app_android,Europe,Electronics,237.03,2,474.07,5,0
+TX101010,2026-06-15 10:43:00,social_tiktok_ads,APAC,Apparel,46.68,2,93.36,5,0
+TX100816,2026-06-15 14:39:00,web_store_apac,APAC,Apparel,48.65,2,97.3,3,1
+TX100525,2026-06-15 17:24:00,social_instagram_ads,Europe,Grocery,28.12,2,56.24,5,0
+TX100838,2026-06-16 01:52:00,email_campaigns,APAC,Grocery,11.19,1,11.19,4,0
+TX100227,2026-06-16 02:50:00,mobile_app_ios,MEA,Books,13.64,2,27.28,5,0
+TX100529,2026-06-16 03:05:00,retail_pos_partners,APAC,Books,14.37,4,57.47,4,0
+TX100956,2026-06-16 03:09:00,mobile_app_ios,LATAM,Toys,36.49,1,36.49,5,0
+TX100545,2026-06-16 03:59:00,marketplace_etsy,LATAM,Sports,75.31,1,75.31,3,0
+TX101377,2026-06-16 05:41:00,social_instagram_ads,APAC,Electronics,245.34,2,490.69,3,0
+TX101076,2026-06-16 07:38:00,affiliate_network,North America,Sports,40.48,2,80.97,4,0
+TX100530,2026-06-16 08:06:00,web_store_us,LATAM,Sports,52.71,4,210.84,4,0
+TX101007,2026-06-16 11:35:00,social_instagram_ads,APAC,Toys,27.23,2,54.47,4,0
+TX100920,2026-06-16 12:14:00,mobile_app_android,Europe,Grocery,23.38,2,46.76,4,0
+TX100999,2026-06-16 12:17:00,mobile_app_ios,APAC,Books,16.09,4,64.35,5,0
+TX100364,2026-06-16 12:20:00,web_store_eu,MEA,Apparel,52.18,1,52.18,5,0
+TX101029,2026-06-16 13:16:00,web_store_eu,APAC,Grocery,26.72,2,53.44,5,0
+TX101067,2026-06-16 14:00:00,mobile_app_android,MEA,Sports,36.11,1,36.11,5,0
+TX101096,2026-06-16 18:15:00,web_store_apac,APAC,Apparel,48.95,3,146.86,4,0
+TX100929,2026-06-16 18:41:00,web_store_apac,LATAM,Books,20.98,1,20.98,4,0
+TX100996,2026-06-16 19:55:00,marketplace_etsy,APAC,Home & Kitchen,74.56,3,223.69,5,0
+TX100814,2026-06-16 21:20:00,web_store_apac,APAC,Electronics,263.88,1,263.88,3,0
+TX100798,2026-06-16 22:41:00,social_tiktok_ads,North America,Apparel,35.09,3,105.27,5,0
+TX101412,2026-06-17 00:18:00,marketplace_etsy,LATAM,Toys,37.93,1,37.93,5,1
+TX100641,2026-06-17 04:47:00,social_tiktok_ads,Europe,Sports,61.91,2,123.83,5,0
+TX100779,2026-06-17 08:37:00,mobile_app_android,APAC,Books,12.82,2,25.64,2,0
+TX100305,2026-06-17 09:24:00,social_instagram_ads,APAC,Apparel,37.73,1,37.73,4,0
+TX100273,2026-06-17 09:46:00,social_instagram_ads,Europe,Toys,31.58,3,94.74,4,0
+TX100406,2026-06-17 10:35:00,web_store_apac,LATAM,Home & Kitchen,75.93,1,75.93,5,0
+TX100363,2026-06-17 11:28:00,affiliate_network,LATAM,Apparel,50.95,1,50.95,3,0
+TX100726,2026-06-17 12:23:00,web_store_eu,Europe,Books,14.75,1,14.75,4,0
+TX100557,2026-06-17 12:29:00,social_tiktok_ads,LATAM,Beauty,29.74,1,29.74,4,0
+TX101427,2026-06-17 16:46:00,mobile_app_android,North America,Grocery,25.49,1,25.49,4,0
+TX101250,2026-06-17 17:03:00,web_store_apac,North America,Sports,61.04,2,122.09,4,0
+TX100655,2026-06-17 18:31:00,mobile_app_android,LATAM,Beauty,23.87,1,23.87,5,0
+TX101384,2026-06-17 21:44:00,mobile_app_android,MEA,Grocery,20.3,2,40.6,3,1
+TX100699,2026-06-17 22:42:00,web_store_eu,North America,Toys,33.06,1,33.06,5,1
+TX100007,2026-06-18 03:22:00,marketplace_amazon,North America,Home & Kitchen,78.37,2,156.73,3,0
+TX100859,2026-06-18 04:03:00,web_store_us,North America,Home & Kitchen,83.68,1,83.68,4,0
+TX101335,2026-06-18 05:01:00,web_store_apac,MEA,Home & Kitchen,63.68,1,63.68,4,0
+TX100481,2026-06-18 05:48:00,marketplace_etsy,APAC,Apparel,64.68,1,64.68,3,0
+TX101301,2026-06-18 12:21:00,web_store_eu,North America,Sports,73.08,1,73.08,5,0
+TX100598,2026-06-18 14:04:00,email_campaigns,LATAM,Sports,39.43,1,39.43,4,0
+TX100492,2026-06-18 14:34:00,mobile_app_ios,APAC,Toys,24.47,4,97.89,4,0
+TX100979,2026-06-18 18:30:00,social_tiktok_ads,LATAM,Sports,52.66,4,210.63,4,0
+TX100229,2026-06-18 20:23:00,marketplace_amazon,MEA,Sports,56.68,3,170.04,5,0
+TX100487,2026-06-18 21:38:00,mobile_app_ios,APAC,Electronics,243.11,2,486.21,5,0
+TX101224,2026-06-19 01:05:00,email_campaigns,North America,Electronics,200.07,1,200.07,5,0
+TX100329,2026-06-19 02:23:00,social_tiktok_ads,Europe,Toys,23.17,1,23.17,4,0
+TX101319,2026-06-19 02:50:00,retail_pos_partners,LATAM,Beauty,30.42,3,91.27,5,0
+TX100684,2026-06-19 04:26:00,web_store_us,APAC,Home & Kitchen,50.52,3,151.55,4,0
+TX101082,2026-06-19 06:12:00,retail_pos_partners,MEA,Beauty,27.98,1,27.98,4,0
+TX100446,2026-06-19 07:28:00,mobile_app_ios,APAC,Electronics,278.2,3,834.6,5,0
+TX100864,2026-06-19 07:32:00,social_tiktok_ads,MEA,Beauty,24.77,3,74.32,5,0
+TX101355,2026-06-19 11:08:00,affiliate_network,Europe,Grocery,26.83,2,53.67,5,0
+TX100577,2026-06-19 13:11:00,affiliate_network,MEA,Apparel,40.35,2,80.69,5,0
+TX100892,2026-06-19 14:40:00,mobile_app_ios,LATAM,Sports,51.35,1,51.35,5,0
+TX100710,2026-06-19 14:46:00,web_store_eu,North America,Electronics,243.32,1,243.32,4,0
+TX100404,2026-06-19 16:28:00,marketplace_amazon,North America,Sports,54.74,3,164.21,4,0
+TX100366,2026-06-19 17:07:00,web_store_apac,MEA,Grocery,33.41,4,133.63,4,0
+TX100362,2026-06-19 18:02:00,email_campaigns,APAC,Toys,35.23,5,176.14,4,0
+TX100964,2026-06-19 20:00:00,social_tiktok_ads,Europe,Electronics,213.22,3,639.65,4,0
+TX100110,2026-06-19 22:09:00,web_store_apac,Europe,Apparel,47.65,1,47.65,5,1
+TX101311,2026-06-19 22:52:00,web_store_eu,North America,Beauty,35.34,4,141.36,4,0
+TX100773,2026-06-19 23:02:00,mobile_app_android,LATAM,Books,28.76,1,28.76,4,0
+TX101091,2026-06-20 00:46:00,marketplace_amazon,LATAM,Grocery,26.94,1,26.94,4,0
+TX100060,2026-06-20 04:42:00,marketplace_amazon,APAC,Beauty,30.27,4,121.08,4,0
+TX101411,2026-06-20 04:45:00,marketplace_amazon,APAC,Electronics,213.53,2,427.06,4,0
+TX101303,2026-06-20 05:41:00,social_instagram_ads,MEA,Beauty,23.43,1,23.43,4,0
+TX101230,2026-06-20 05:44:00,affiliate_network,APAC,Sports,51.95,1,51.95,3,0
+TX100602,2026-06-20 06:27:00,marketplace_amazon,MEA,Home & Kitchen,48.43,3,145.3,5,0
+TX101410,2026-06-20 06:31:00,social_instagram_ads,MEA,Home & Kitchen,61.94,1,61.94,4,0
+TX101159,2026-06-20 09:49:00,mobile_app_ios,LATAM,Sports,72.11,2,144.23,5,0
+TX100852,2026-06-20 10:18:00,affiliate_network,APAC,Beauty,20.59,3,61.77,2,0
+TX100744,2026-06-20 10:44:00,web_store_apac,North America,Books,16.36,2,32.71,4,0
+TX100572,2026-06-20 18:07:00,affiliate_network,MEA,Books,21.3,8,274.47029935531845,4,0
+TX101155,2026-06-20 19:47:00,retail_pos_partners,APAC,Books,16.21,3,48.62,5,0
+TX100610,2026-06-20 20:19:00,email_campaigns,North America,Apparel,50.81,2,101.62,1,1
+TX100283,2026-06-20 23:02:00,social_tiktok_ads,North America,Toys,38.75,1,38.75,4,0
+TX100286,2026-06-21 00:20:00,marketplace_etsy,North America,Sports,43.75,1,43.75,4,0
+TX100963,2026-06-21 10:51:00,web_store_eu,MEA,Beauty,26.63,2,53.26,5,0
+TX100513,2026-06-21 12:24:00,web_store_eu,North America,Electronics,164.27,2,328.54,5,0
+TX101253,2026-06-21 12:27:00,email_campaigns,LATAM,Toys,25.87,2,51.74,5,0
+TX100835,2026-06-21 13:02:00,email_campaigns,North America,Electronics,313.47,3,940.41,4,0
+TX100788,2026-06-21 13:30:00,affiliate_network,LATAM,Books,16.17,1,16.17,5,0
+TX100976,2026-06-21 18:00:00,affiliate_network,LATAM,Beauty,37.02,4,148.07,4,0
+TX100973,2026-06-21 18:12:00,marketplace_etsy,LATAM,Toys,30.43,1,30.43,4,0
+TX100967,2026-06-21 19:41:00,affiliate_network,LATAM,Electronics,169.04,4,676.18,4,0
+TX100771,2026-06-21 21:20:00,mobile_app_ios,MEA,Electronics,252.83,1,252.83,4,0
+TX100035,2026-06-21 21:41:00,mobile_app_ios,APAC,Beauty,21.77,5,108.87,4,0
+TX100084,2026-06-21 21:53:00,mobile_app_android,MEA,Toys,29.08,1,29.08,4,0
+TX100091,2026-06-21 22:18:00,mobile_app_android,APAC,Books,21.83,3,65.49,4,0
+TX100285,2026-06-21 22:40:00,marketplace_amazon,MEA,Books,26.38,3,79.13,5,0
+TX100045,2026-06-21 23:21:00,email_campaigns,North America,Home & Kitchen,103.82,4,415.29,5,0
+TX101310,2026-06-21 23:49:00,social_instagram_ads,LATAM,Grocery,23.15,1,23.15,5,0
+TX100503,2026-06-22 04:53:00,email_campaigns,North America,Electronics,316.89,2,633.79,4,0
+TX101151,2026-06-22 07:47:00,marketplace_etsy,APAC,Electronics,82.62,2,165.24,4,0
+TX101144,2026-06-22 09:28:00,web_store_us,LATAM,Toys,25.75,1,25.75,4,0
+TX101163,2026-06-22 10:28:00,retail_pos_partners,LATAM,Apparel,29.92,4,119.7,4,0
+TX100262,2026-06-22 11:55:00,web_store_us,North America,Toys,26.68,2,53.35,4,0
+TX100534,2026-06-22 12:49:00,marketplace_etsy,APAC,Electronics,126.38,2,252.76,4,0
+TX100376,2026-06-22 13:52:00,retail_pos_partners,MEA,Grocery,28.3,1,28.3,4,1
+TX101175,2026-06-22 14:05:00,mobile_app_ios,LATAM,Grocery,11.19,1,11.19,4,0
+TX100164,2026-06-22 14:44:00,web_store_eu,North America,Apparel,37.07,3,111.2,4,0
+TX101185,2026-06-22 16:13:00,mobile_app_android,MEA,Toys,41.61,2,83.23,4,0
+TX100683,2026-06-22 17:30:00,email_campaigns,LATAM,Sports,68.67,1,68.67,4,0
+TX100853,2026-06-22 19:44:00,social_instagram_ads,Europe,Apparel,44.23,2,88.47,4,0
+TX100903,2026-06-22 20:54:00,retail_pos_partners,Europe,Toys,33.6,3,100.81,3,0
+TX100328,2026-06-23 01:25:00,social_instagram_ads,North America,Toys,22.98,3,68.95,5,0
+TX101102,2026-06-23 03:55:00,marketplace_amazon,LATAM,Toys,30.06,1,30.06,3,0
+TX100740,2026-06-23 04:09:00,retail_pos_partners,North America,Books,16.01,1,16.01,5,0
+TX101418,2026-06-23 05:35:00,web_store_us,APAC,Books,24.46,1,24.46,4,0
+TX101358,2026-06-23 05:48:00,web_store_eu,LATAM,Grocery,19.98,2,39.95,5,0
+TX100436,2026-06-23 05:59:00,retail_pos_partners,Europe,Electronics,188.49,1,188.49,3,0
+TX100004,2026-06-23 07:28:00,social_tiktok_ads,MEA,Beauty,23.08,2,46.15,3,0
+TX100395,2026-06-23 07:55:00,mobile_app_android,MEA,Books,22.34,5,111.72,5,0
+TX101045,2026-06-23 09:50:00,social_instagram_ads,APAC,Beauty,27.22,1,27.22,5,0
+TX100935,2026-06-23 10:46:00,retail_pos_partners,Europe,Home & Kitchen,65.82,1,65.82,5,0
+TX100949,2026-06-23 11:55:00,email_campaigns,MEA,Books,21.37,1,21.37,4,1
+TX100111,2026-06-23 13:21:00,retail_pos_partners,North America,Beauty,17.65,1,17.65,5,0
+TX101389,2026-06-23 14:47:00,web_store_apac,APAC,Grocery,11.72,3,35.15,4,0
+TX101003,2026-06-23 15:08:00,social_instagram_ads,Europe,Electronics,171.52,1,171.52,5,0
+TX100803,2026-06-23 21:06:00,retail_pos_partners,APAC,Electronics,220.71,2,441.41,5,0
+TX100092,2026-06-23 21:24:00,social_tiktok_ads,Europe,Apparel,26.93,1,26.93,4,0
+TX101388,2026-06-23 21:34:00,email_campaigns,APAC,Electronics,280.31,1,280.31,3,1
+TX100258,2026-06-23 23:06:00,marketplace_amazon,LATAM,Grocery,14.48,2,28.96,4,0
+TX100002,2026-06-24 01:01:00,social_tiktok_ads,MEA,Home & Kitchen,57.37,1,57.37,5,0
+TX100722,2026-06-24 02:18:00,web_store_us,North America,Toys,32.16,1,32.16,4,0
+TX101374,2026-06-24 08:44:00,social_tiktok_ads,APAC,Electronics,216.92,1,216.92,4,0
+TX101160,2026-06-24 09:39:00,mobile_app_android,Europe,Grocery,22.01,4,88.02,3,0
+TX100622,2026-06-24 10:50:00,retail_pos_partners,APAC,Books,18.99,1,18.99,4,0
+TX100462,2026-06-24 11:44:00,mobile_app_ios,North America,Home & Kitchen,63.65,1,63.65,4,0
+TX100565,2026-06-24 14:14:00,web_store_apac,MEA,Toys,21.78,3,65.35,4,0
+TX100020,2026-06-24 18:25:00,retail_pos_partners,MEA,Sports,72.51,1,72.51,4,0
+TX100089,2026-06-25 02:42:00,web_store_us,APAC,Beauty,33.96,2,67.92,4,0
+TX100277,2026-06-25 03:18:00,mobile_app_ios,APAC,Home & Kitchen,70.02,2,140.04,5,0
+TX100351,2026-06-25 12:47:00,mobile_app_android,APAC,Home & Kitchen,62.91,1,62.91,3,0
+TX100531,2026-06-25 14:35:00,web_store_apac,Europe,Home & Kitchen,69.69,2,139.38,4,0
+TX101027,2026-06-25 16:40:00,affiliate_network,MEA,Grocery,25.29,2,50.58,3,0
+TX100379,2026-06-25 16:58:00,social_tiktok_ads,Europe,Apparel,58.38,2,116.75,5,0
+TX101363,2026-06-25 18:14:00,mobile_app_ios,APAC,Beauty,24.64,2,49.28,4,0
+TX100717,2026-06-25 20:10:00,affiliate_network,North America,Grocery,23.77,1,23.77,4,0
+TX100176,2026-06-25 20:52:00,mobile_app_android,MEA,Apparel,38.71,1,38.71,4,0
+TX100679,2026-06-25 23:25:00,web_store_us,MEA,Apparel,31.72,3,95.17,4,0
+TX100296,2026-06-26 02:30:00,marketplace_amazon,Europe,Toys,27.72,1,27.72,5,0
+TX100589,2026-06-26 03:49:00,mobile_app_android,North America,Toys,40.28,3,120.83,5,0
+TX100749,2026-06-26 06:58:00,affiliate_network,Europe,Home & Kitchen,75.04,1,75.04,5,0
+TX100155,2026-06-26 10:11:00,mobile_app_android,LATAM,Grocery,29.96,3,89.88,4,0
+TX100541,2026-06-26 10:27:00,marketplace_amazon,APAC,Books,16.75,1,16.75,5,0
+TX100801,2026-06-26 12:07:00,retail_pos_partners,LATAM,Home & Kitchen,56.63,2,113.27,4,0
+TX100276,2026-06-26 13:17:00,marketplace_etsy,MEA,Grocery,24.2,2,48.4,4,0
+TX100237,2026-06-26 14:15:00,web_store_us,Europe,Toys,34.27,1,34.27,5,0
+TX100095,2026-06-26 14:43:00,affiliate_network,LATAM,Toys,41.42,1,41.42,5,0
+TX101210,2026-06-26 16:01:00,web_store_us,North America,Beauty,28.62,3,85.85,5,0
+TX100144,2026-06-27 00:05:00,mobile_app_ios,LATAM,Grocery,29.38,2,58.75,4,0
+TX100708,2026-06-27 00:16:00,email_campaigns,APAC,Home & Kitchen,66.18,2,132.36,4,1
+TX100357,2026-06-27 01:46:00,web_store_apac,APAC,Grocery,28.11,2,56.21,3,1
+TX100713,2026-06-27 02:51:00,affiliate_network,Europe,Beauty,31.57,2,63.14,4,0
+TX100833,2026-06-27 02:54:00,social_instagram_ads,MEA,Grocery,22.24,5,111.22,3,0
+TX100036,2026-06-27 03:15:00,marketplace_amazon,MEA,Grocery,14.26,2,28.53,4,0
+TX100869,2026-06-27 05:43:00,mobile_app_ios,APAC,Beauty,16.91,3,50.74,4,0
+TX100105,2026-06-27 05:47:00,social_tiktok_ads,MEA,Books,18.76,1,18.76,4,0
+TX100257,2026-06-27 07:26:00,email_campaigns,LATAM,Beauty,17.26,3,51.78,5,0
+TX100786,2026-06-27 08:13:00,email_campaigns,North America,Electronics,135.43,1,135.43,4,0
+TX101208,2026-06-27 09:13:00,social_instagram_ads,APAC,Beauty,17.98,1,17.98,4,0
+TX100910,2026-06-27 10:39:00,mobile_app_ios,LATAM,Toys,33.68,3,101.03,5,1
+TX100667,2026-06-27 14:20:00,web_store_apac,Europe,Home & Kitchen,57.07,1,57.07,5,0
+TX101413,2026-06-27 17:05:00,marketplace_amazon,APAC,Toys,33.28,1,33.28,4,0
+TX100192,2026-06-27 17:30:00,affiliate_network,Europe,Grocery,16.49,3,49.47,4,0
+TX100332,2026-06-27 19:00:00,social_instagram_ads,LATAM,Apparel,53.26,1,53.26,4,0
+TX100962,2026-06-27 22:10:00,email_campaigns,Europe,Home & Kitchen,72.95,3,218.84,4,0
+TX100739,2026-06-28 00:50:00,marketplace_amazon,MEA,Sports,69.25,1,69.25,3,0
+TX101439,2026-06-28 02:07:00,social_tiktok_ads,LATAM,Home & Kitchen,60.95,1,60.95,4,0
+TX100409,2026-06-28 04:38:00,marketplace_amazon,MEA,Grocery,25.69,2,51.37,5,0
+TX100560,2026-06-28 06:33:00,marketplace_amazon,APAC,Sports,56.35,2,112.7,5,0
+TX100210,2026-06-28 08:42:00,mobile_app_ios,APAC,Grocery,26.03,2,52.06,4,0
+TX100818,2026-06-28 08:53:00,web_store_eu,LATAM,Books,19.24,3,57.73,4,0
+TX101228,2026-06-28 09:43:00,retail_pos_partners,North America,Grocery,20.25,5,101.24,3,0
+TX101231,2026-06-28 15:01:00,email_campaigns,APAC,Toys,25.38,4,101.51,4,0
+TX101173,2026-06-28 15:54:00,web_store_us,North America,Sports,84.96,4,339.82,4,0
+TX100439,2026-06-28 20:34:00,web_store_eu,APAC,Toys,35.1,3,105.29,3,0
+TX100012,2026-06-28 20:53:00,web_store_eu,APAC,Books,22.64,1,22.64,5,0
+TX100847,2026-06-28 21:37:00,email_campaigns,LATAM,Home & Kitchen,58.4,4,233.59,4,0
+TX100661,2026-06-28 23:05:00,social_tiktok_ads,APAC,Books,24.3,1,24.3,5,0
+TX101215,2026-06-29 01:06:00,affiliate_network,APAC,Home & Kitchen,57.58,3,172.75,5,0
+TX100390,2026-06-29 06:21:00,social_instagram_ads,LATAM,Books,15.18,2,30.36,4,0
+TX100015,2026-06-29 12:17:00,retail_pos_partners,Europe,Beauty,30.53,3,91.59,5,0
+TX100181,2026-06-29 13:03:00,marketplace_etsy,MEA,Electronics,269.38,1,269.38,4,0
+TX100298,2026-06-29 14:02:00,social_tiktok_ads,APAC,Home & Kitchen,66.09,1,66.09,5,0
+TX100914,2026-06-29 14:22:00,email_campaigns,LATAM,Toys,41.95,1,41.95,4,0
+TX100397,2026-06-29 15:56:00,web_store_apac,MEA,Grocery,18.97,1,18.97,3,0
+TX100921,2026-06-29 16:32:00,affiliate_network,Europe,Sports,65.74,1,65.74,4,0
+TX101125,2026-06-29 20:00:00,retail_pos_partners,North America,Sports,80.97,1,80.97,4,0
+TX100906,2026-06-29 20:35:00,affiliate_network,MEA,Electronics,215.45,1,215.45,4,0
+TX100460,2026-06-29 21:51:00,affiliate_network,MEA,Electronics,215.41,1,215.41,3,0
+TX100044,2026-06-29 23:03:00,marketplace_amazon,LATAM,Books,14.78,1,14.78,5,0
+TX101120,2026-06-30 00:21:00,web_store_eu,LATAM,Sports,37.88,2,75.77,4,0
+TX100463,2026-06-30 01:18:00,web_store_eu,North America,Electronics,302.42,1,302.42,5,1
+TX100780,2026-06-30 01:55:00,mobile_app_android,North America,Grocery,21.88,3,65.63,4,0
+TX100724,2026-06-30 03:19:00,web_store_apac,North America,Sports,44.25,1,44.25,4,0
+TX101254,2026-06-30 04:12:00,social_tiktok_ads,Europe,Beauty,23.6,2,47.2,2,0
+TX101283,2026-06-30 09:30:00,web_store_apac,LATAM,Grocery,20.42,1,20.42,4,0
+TX100302,2026-06-30 16:09:00,mobile_app_ios,MEA,Toys,27.78,2,55.57,4,0
+TX101031,2026-06-30 17:00:00,web_store_apac,APAC,Toys,44.3,1,44.3,3,0
+TX101108,2026-06-30 18:47:00,web_store_apac,North America,Toys,42.83,4,171.33,5,0
+TX101006,2026-06-30 20:06:00,web_store_us,APAC,Beauty,29.53,2,59.06,4,0
+TX101266,2026-06-30 20:47:00,affiliate_network,Europe,Home & Kitchen,80.57,1,80.57,5,0
+TX100126,2026-06-30 21:07:00,web_store_apac,Europe,Beauty,28.0,1,28.0,4,0
+TX100612,2026-07-01 02:08:00,web_store_eu,Europe,Electronics,269.11,2,538.22,5,0
+TX100768,2026-07-01 02:21:00,mobile_app_android,North America,Sports,62.61,1,62.61,4,0
+TX100422,2026-07-01 06:15:00,email_campaigns,MEA,Sports,54.91,1,54.91,5,0
+TX100936,2026-07-01 06:37:00,web_store_eu,LATAM,Grocery,29.43,1,29.43,4,0
+TX100424,2026-07-01 11:35:00,mobile_app_ios,APAC,Grocery,24.58,1,24.58,5,0
+TX100849,2026-07-01 16:49:00,web_store_us,MEA,Books,22.86,3,68.58,5,0
+TX101110,2026-07-01 17:12:00,marketplace_etsy,Europe,Apparel,45.66,2,91.31,4,0
+TX101028,2026-07-01 17:14:00,email_campaigns,APAC,Sports,82.69,1,82.69,5,0
+TX101426,2026-07-01 18:27:00,web_store_eu,MEA,Toys,21.62,2,43.23,5,0
+TX101053,2026-07-01 20:19:00,web_store_us,APAC,Home & Kitchen,79.77,1,79.77,4,0
+TX101369,2026-07-01 21:19:00,mobile_app_ios,North America,Home & Kitchen,77.76,1,77.76,3,1
+TX101264,2026-07-01 22:05:00,marketplace_amazon,MEA,Home & Kitchen,76.26,1,76.26,3,0
+TX101273,2026-07-02 02:08:00,retail_pos_partners,APAC,Electronics,251.84,2,503.68,5,0
+TX100580,2026-07-02 04:12:00,web_store_us,North America,Toys,39.25,1,39.25,4,0
+TX100597,2026-07-02 04:36:00,marketplace_amazon,LATAM,Beauty,22.12,1,22.12,4,0
+TX101041,2026-07-02 06:20:00,social_instagram_ads,MEA,Sports,47.58,1,47.58,5,0
+TX101060,2026-07-02 07:20:00,web_store_apac,Europe,Home & Kitchen,97.49,1,97.49,5,0
+TX100600,2026-07-02 10:37:00,retail_pos_partners,LATAM,Toys,15.68,1,15.68,5,0
+TX100931,2026-07-02 15:56:00,marketplace_etsy,APAC,Toys,32.31,2,64.61,4,0
+TX100143,2026-07-02 17:48:00,web_store_eu,LATAM,Beauty,25.56,2,51.13,4,0
+TX100107,2026-07-02 20:15:00,email_campaigns,MEA,Sports,50.62,3,151.86,4,0
+TX101424,2026-07-02 22:41:00,mobile_app_android,Europe,Books,20.05,3,60.16,2,0
+TX101058,2026-07-03 02:43:00,web_store_eu,Europe,Beauty,32.82,4,131.26,4,0
+TX100843,2026-07-03 04:52:00,web_store_eu,Europe,Electronics,213.13,2,426.25,4,0
+TX100806,2026-07-03 06:38:00,mobile_app_android,North America,Home & Kitchen,94.47,1,94.47,4,0
+TX100140,2026-07-03 10:11:00,marketplace_etsy,North America,Toys,17.78,3,53.33,5,0
+TX100640,2026-07-03 11:33:00,retail_pos_partners,Europe,Electronics,307.44,2,614.88,5,0
+TX100100,2026-07-03 12:15:00,marketplace_etsy,LATAM,Beauty,42.3,2,84.61,5,0
+TX100711,2026-07-03 12:22:00,marketplace_etsy,LATAM,Apparel,14.37,3,43.12,5,1
+TX101261,2026-07-03 23:15:00,marketplace_etsy,MEA,Electronics,211.61,1,211.61,4,0
+TX100281,2026-07-03 23:27:00,marketplace_amazon,North America,Home & Kitchen,41.44,1,41.44,3,0
+TX100922,2026-07-04 00:42:00,web_store_eu,APAC,Books,13.53,1,13.53,4,0
+TX100947,2026-07-04 03:05:00,social_instagram_ads,MEA,Electronics,286.34,2,572.67,5,0
+TX100977,2026-07-04 03:35:00,mobile_app_android,LATAM,Apparel,53.22,4,212.9,5,0
+TX100027,2026-07-04 05:32:00,social_instagram_ads,APAC,Electronics,165.52,1,165.52,4,0
+TX100264,2026-07-04 06:09:00,marketplace_amazon,MEA,Home & Kitchen,63.56,5,317.82,5,0
+TX101133,2026-07-04 08:51:00,marketplace_amazon,Europe,Sports,58.01,1,58.01,4,0
+TX100224,2026-07-04 08:53:00,social_tiktok_ads,MEA,Toys,24.35,1,24.35,4,0
+TX100775,2026-07-04 09:54:00,email_campaigns,APAC,Grocery,22.65,1,22.65,4,0
+TX100323,2026-07-04 16:26:00,social_instagram_ads,LATAM,Sports,41.25,1,41.25,4,0
+TX101382,2026-07-04 16:53:00,marketplace_amazon,LATAM,Grocery,26.4,1,26.4,5,0
+TX100171,2026-07-04 17:31:00,mobile_app_android,APAC,Books,18.13,1,18.13,5,0
+TX100197,2026-07-04 18:21:00,social_instagram_ads,Europe,Electronics,157.97,1,157.97,5,0
+TX100003,2026-07-04 19:01:00,web_store_eu,Europe,Beauty,9.71,2,19.42,5,0
+TX100551,2026-07-04 22:26:00,social_instagram_ads,MEA,Books,14.78,2,29.57,4,0
+TX100508,2026-07-04 22:43:00,mobile_app_android,North America,Sports,59.9,5,299.48,4,0
+TX100761,2026-07-05 00:55:00,mobile_app_ios,LATAM,Sports,66.73,1,66.73,4,0
+TX100055,2026-07-05 02:54:00,social_instagram_ads,North America,Apparel,48.16,1,48.16,4,0
+TX100585,2026-07-05 03:36:00,retail_pos_partners,MEA,Grocery,9.98,4,39.92,5,0
+TX100372,2026-07-05 07:07:00,retail_pos_partners,APAC,Apparel,58.43,3,175.3,4,0
+TX100313,2026-07-05 11:01:00,retail_pos_partners,LATAM,Home & Kitchen,65.39,5,326.97,5,0
+TX100644,2026-07-05 11:03:00,web_store_eu,LATAM,Grocery,15.12,3,45.36,4,0
+TX100576,2026-07-05 12:26:00,web_store_apac,Europe,Toys,16.92,5,84.59,5,0
+TX101249,2026-07-05 12:54:00,affiliate_network,MEA,Electronics,199.89,4,799.55,5,0
+TX100459,2026-07-05 13:29:00,web_store_us,Europe,Grocery,26.9,2,53.79,5,0
+TX100021,2026-07-05 15:05:00,marketplace_amazon,Europe,Beauty,18.09,1,18.09,4,0
+TX100249,2026-07-05 18:06:00,social_instagram_ads,APAC,Grocery,24.95,4,99.8,4,0
+TX100290,2026-07-05 20:07:00,marketplace_amazon,North America,Apparel,40.81,2,81.63,5,0
+TX100933,2026-07-05 20:17:00,web_store_apac,North America,Beauty,32.76,2,65.52,4,0
+TX100599,2026-07-05 23:17:00,email_campaigns,LATAM,Home & Kitchen,72.98,2,145.96,4,0
+TX100359,2026-07-05 23:43:00,email_campaigns,APAC,Books,20.46,1,20.46,4,0
+TX101265,2026-07-06 02:33:00,web_store_apac,LATAM,Sports,35.29,3,105.88,4,0
+TX100876,2026-07-06 02:50:00,social_tiktok_ads,Europe,Beauty,26.47,2,52.94,5,0
+TX101081,2026-07-06 03:06:00,mobile_app_android,Europe,Home & Kitchen,54.85,6,329.11,5,0
+TX100564,2026-07-06 05:35:00,web_store_eu,Europe,Apparel,26.56,3,79.67,4,0
+TX100535,2026-07-06 05:43:00,web_store_eu,MEA,Beauty,25.33,2,50.66,4,0
+TX101436,2026-07-06 09:23:00,web_store_apac,Europe,Electronics,231.49,2,462.97,4,0
+TX100842,2026-07-06 11:44:00,email_campaigns,MEA,Sports,58.8,3,176.41,5,0
+TX100826,2026-07-06 16:44:00,retail_pos_partners,APAC,Beauty,18.75,3,56.26,3,0
+TX101136,2026-07-06 21:39:00,web_store_apac,LATAM,Home & Kitchen,55.3,1,55.3,3,0
+TX100484,2026-07-07 04:24:00,marketplace_etsy,MEA,Books,20.17,3,60.51,5,0
+TX101066,2026-07-07 04:28:00,social_tiktok_ads,North America,Apparel,51.97,4,207.89,3,1
+TX101408,2026-07-07 07:50:00,affiliate_network,MEA,Beauty,29.12,4,116.5,5,0
+TX100420,2026-07-07 12:20:00,mobile_app_ios,LATAM,Toys,33.19,1,33.19,4,0
+TX101285,2026-07-07 13:00:00,social_instagram_ads,Europe,Sports,27.03,3,81.09,3,0
+TX100198,2026-07-07 14:00:00,web_store_eu,North America,Grocery,20.58,4,82.34,3,0
+TX100340,2026-07-07 17:32:00,social_tiktok_ads,North America,Toys,30.62,1,30.62,3,0
+TX100618,2026-07-07 18:00:00,email_campaigns,North America,Apparel,35.91,1,35.91,5,0
+TX101075,2026-07-07 19:44:00,email_campaigns,LATAM,Books,19.49,5,97.45,5,1
+TX100571,2026-07-07 20:20:00,web_store_eu,LATAM,Sports,67.53,4,270.12,4,0
+TX101070,2026-07-07 21:31:00,social_tiktok_ads,Europe,Books,18.74,4,74.98,3,0
+TX101167,2026-07-07 22:24:00,social_instagram_ads,North America,Toys,44.94,3,134.81,4,0
+TX101042,2026-07-08 00:11:00,web_store_us,North America,Apparel,37.93,1,37.93,4,0
+TX101203,2026-07-08 00:13:00,email_campaigns,MEA,Toys,27.27,4,109.09,5,0
+TX101268,2026-07-08 00:30:00,affiliate_network,APAC,Electronics,150.22,3,450.67,5,0
+TX101129,2026-07-08 02:11:00,marketplace_amazon,MEA,Grocery,20.19,3,60.56,3,0
+TX100228,2026-07-08 03:29:00,marketplace_etsy,APAC,Electronics,296.86,1,296.86,4,0
+TX100456,2026-07-08 04:10:00,social_tiktok_ads,MEA,Beauty,29.12,2,58.24,5,0
+TX100062,2026-07-08 06:32:00,social_instagram_ads,North America,Home & Kitchen,66.23,3,198.7,4,0
+TX100789,2026-07-08 06:46:00,marketplace_etsy,North America,Electronics,292.11,1,292.11,4,0
+TX100321,2026-07-08 07:19:00,retail_pos_partners,Europe,Grocery,28.57,1,28.57,3,0
+TX100635,2026-07-08 10:25:00,social_tiktok_ads,Europe,Beauty,29.52,5,147.58,3,0
+TX101312,2026-07-08 11:21:00,social_instagram_ads,MEA,Home & Kitchen,56.89,1,56.89,5,0
+TX101157,2026-07-08 12:47:00,web_store_us,MEA,Beauty,36.27,1,36.27,4,0
+TX101320,2026-07-08 14:01:00,social_tiktok_ads,LATAM,Sports,58.3,2,116.6,4,0
+TX100282,2026-07-08 22:14:00,web_store_apac,LATAM,Apparel,64.43,3,193.29,4,0
+TX100690,2026-07-08 23:03:00,mobile_app_ios,APAC,Beauty,27.25,6,163.49,5,0
+TX100486,2026-07-08 23:53:00,social_instagram_ads,North America,Toys,31.31,2,62.63,5,0
+TX100948,2026-07-09 00:57:00,social_instagram_ads,MEA,Apparel,40.22,1,40.22,5,0
+TX100546,2026-07-09 05:43:00,affiliate_network,MEA,Beauty,21.64,2,43.28,4,0
+TX101220,2026-07-09 11:35:00,social_tiktok_ads,Europe,Home & Kitchen,107.87,2,215.73,4,0
+TX101304,2026-07-09 13:13:00,social_instagram_ads,Europe,Home & Kitchen,44.68,1,44.68,4,0
+TX100686,2026-07-09 15:22:00,retail_pos_partners,LATAM,Toys,25.71,1,25.71,4,0
+TX101121,2026-07-09 16:48:00,mobile_app_ios,Europe,Beauty,21.68,1,21.68,4,0
+TX100877,2026-07-09 17:25:00,social_tiktok_ads,LATAM,Apparel,49.16,1,49.16,5,0
+TX100238,2026-07-09 20:22:00,marketplace_amazon,APAC,Home & Kitchen,47.11,1,47.11,4,0
+TX100883,2026-07-09 23:18:00,web_store_eu,APAC,Books,15.72,1,15.72,4,0
+TX100868,2026-07-09 23:38:00,mobile_app_ios,MEA,Toys,31.72,8,377.9435588833249,4,0
+TX101020,2026-07-10 01:01:00,web_store_eu,LATAM,Home & Kitchen,51.75,2,103.5,4,0
+TX100325,2026-07-10 03:45:00,email_campaigns,APAC,Grocery,25.7,1,25.7,5,0
+TX100984,2026-07-10 05:30:00,marketplace_etsy,North America,Toys,21.16,3,63.47,4,0
+TX101360,2026-07-10 07:05:00,email_campaigns,MEA,Apparel,53.66,1,53.66,4,0
+TX100009,2026-07-10 09:53:00,web_store_eu,North America,Books,17.48,1,17.48,4,0
+TX101168,2026-07-10 12:02:00,retail_pos_partners,LATAM,Apparel,50.61,1,50.61,5,1
+TX100721,2026-07-10 15:09:00,web_store_us,MEA,Books,19.25,3,57.74,4,0
+TX100146,2026-07-10 16:22:00,email_campaigns,LATAM,Toys,25.68,2,51.37,4,0
+TX100900,2026-07-10 17:09:00,retail_pos_partners,North America,Toys,31.85,2,63.69,4,0
+TX100891,2026-07-11 02:36:00,web_store_us,APAC,Apparel,36.75,2,73.5,4,0
+TX100837,2026-07-11 06:41:00,email_campaigns,MEA,Sports,67.94,3,203.82,4,0
+TX100102,2026-07-11 07:58:00,web_store_apac,North America,Grocery,25.51,1,25.51,3,0
+TX101063,2026-07-11 09:34:00,web_store_us,LATAM,Grocery,24.14,1,24.14,5,0
+TX100738,2026-07-11 12:35:00,web_store_eu,LATAM,Home & Kitchen,69.53,1,69.53,5,0
+TX100479,2026-07-11 15:03:00,social_tiktok_ads,LATAM,Apparel,39.61,1,39.61,3,0
+TX100960,2026-07-11 15:16:00,web_store_apac,MEA,Toys,19.56,1,19.56,5,0
+TX100839,2026-07-11 19:38:00,mobile_app_ios,APAC,Grocery,20.63,1,20.63,3,0
+TX101421,2026-07-11 23:29:00,affiliate_network,LATAM,Sports,54.69,1,54.69,5,0
+TX100728,2026-07-12 01:09:00,mobile_app_android,APAC,Beauty,21.76,1,21.76,4,0
+TX100663,2026-07-12 01:27:00,marketplace_etsy,MEA,Home & Kitchen,56.25,2,112.51,4,0
+TX100741,2026-07-12 03:50:00,affiliate_network,North America,Home & Kitchen,52.3,3,156.91,3,0
+TX101227,2026-07-12 04:05:00,mobile_app_ios,LATAM,Home & Kitchen,78.17,2,156.34,5,0
+TX101104,2026-07-12 04:20:00,web_store_us,MEA,Toys,25.19,1,25.19,5,0
+TX100693,2026-07-12 04:36:00,retail_pos_partners,MEA,Toys,34.2,3,102.59,4,1
+TX101064,2026-07-12 05:34:00,retail_pos_partners,Europe,Grocery,19.07,2,38.15,4,0
+TX100093,2026-07-12 09:25:00,email_campaigns,MEA,Apparel,33.06,1,33.06,4,0
+TX100592,2026-07-12 11:34:00,mobile_app_ios,North America,Beauty,44.45,2,88.9,2,0
+TX101263,2026-07-12 15:45:00,marketplace_amazon,North America,Electronics,277.04,2,554.09,4,0
+TX100403,2026-07-12 17:12:00,web_store_us,North America,Books,16.97,2,33.94,4,0
+TX100161,2026-07-12 19:03:00,affiliate_network,APAC,Books,23.25,1,23.25,5,0
+TX100139,2026-07-12 19:42:00,social_instagram_ads,LATAM,Beauty,28.13,1,28.13,4,0
+TX100940,2026-07-12 20:01:00,web_store_apac,MEA,Books,21.92,1,21.92,5,0
+TX100174,2026-07-13 01:48:00,affiliate_network,APAC,Electronics,195.45,2,390.89,4,0
+TX100569,2026-07-13 03:51:00,mobile_app_ios,North America,Sports,43.5,1,43.5,3,0
+TX100337,2026-07-13 07:45:00,social_tiktok_ads,MEA,Electronics,339.4,5,1697.01,4,0
+TX101216,2026-07-13 09:40:00,social_tiktok_ads,North America,Sports,44.61,1,44.61,4,0
+TX101106,2026-07-13 16:05:00,marketplace_etsy,MEA,Grocery,18.83,2,37.66,4,0
+TX100733,2026-07-13 16:51:00,retail_pos_partners,MEA,Electronics,221.91,3,665.73,3,0
+TX100901,2026-07-13 19:25:00,web_store_eu,North America,Electronics,259.51,3,778.54,4,1
+TX101009,2026-07-13 20:41:00,marketplace_amazon,MEA,Beauty,22.07,1,22.07,5,0
+TX101306,2026-07-13 23:16:00,web_store_us,North America,Home & Kitchen,61.14,1,61.14,5,0
+TX101281,2026-07-13 23:53:00,retail_pos_partners,Europe,Apparel,69.11,1,69.11,4,0
+TX100384,2026-07-14 04:10:00,social_tiktok_ads,MEA,Apparel,26.91,1,26.91,4,0
+TX101350,2026-07-14 10:26:00,mobile_app_ios,MEA,Grocery,26.03,1,26.03,4,0
+TX101391,2026-07-14 10:41:00,mobile_app_ios,LATAM,Toys,27.76,1,27.76,3,0
+TX100399,2026-07-14 11:03:00,social_instagram_ads,Europe,Beauty,26.09,2,52.18,4,0
+TX101435,2026-07-14 11:52:00,marketplace_amazon,MEA,Home & Kitchen,81.87,2,163.74,5,0
+TX100415,2026-07-14 15:10:00,email_campaigns,North America,Beauty,20.38,2,40.75,4,0
+TX100928,2026-07-14 17:36:00,web_store_eu,APAC,Sports,35.81,1,35.81,4,0
+TX101139,2026-07-14 17:43:00,web_store_apac,Europe,Beauty,14.67,1,14.67,5,0
+TX100300,2026-07-14 17:50:00,web_store_eu,LATAM,Books,20.1,2,40.2,4,0
+TX100676,2026-07-14 18:16:00,marketplace_etsy,North America,Toys,28.12,2,56.25,3,1
+TX101123,2026-07-14 21:33:00,retail_pos_partners,LATAM,Electronics,115.23,1,115.23,4,1
+TX100447,2026-07-14 23:36:00,mobile_app_android,APAC,Toys,35.22,1,35.22,5,0
+TX100297,2026-07-15 01:22:00,social_instagram_ads,APAC,Sports,21.67,2,43.33,5,0
+TX100574,2026-07-15 02:43:00,email_campaigns,MEA,Sports,40.86,2,81.73,4,0
+TX100212,2026-07-15 09:40:00,web_store_eu,APAC,Grocery,28.1,2,56.19,3,0
+TX101417,2026-07-15 12:05:00,social_tiktok_ads,North America,Toys,0.731,3,109.64,5,0
+TX100288,2026-07-15 12:33:00,web_store_eu,LATAM,Beauty,22.1,1,22.1,4,0
+TX101236,2026-07-15 13:15:00,mobile_app_android,LATAM,Grocery,20.46,4,81.84,4,0
+TX101361,2026-07-15 15:53:00,marketplace_etsy,Europe,Grocery,19.64,1,19.64,5,0
+TX100119,2026-07-15 18:42:00,social_tiktok_ads,LATAM,Electronics,226.02,3,678.05,5,0
+TX101241,2026-07-15 19:29:00,retail_pos_partners,North America,Grocery,30.65,3,91.96,4,0
+TX101392,2026-07-15 21:44:00,email_campaigns,LATAM,Toys,34.35,3,103.05,4,0
+TX101164,2026-07-15 22:57:00,web_store_us,LATAM,Apparel,45.03,2,90.06,5,0
+TX100473,2026-07-16 01:28:00,mobile_app_ios,North America,Home & Kitchen,76.08,1,76.08,5,1
+TX101206,2026-07-16 03:55:00,web_store_apac,Europe,Books,19.88,2,39.75,5,0
+TX100533,2026-07-16 10:55:00,social_tiktok_ads,MEA,Home & Kitchen,62.13,1,62.13,3,0
+TX100414,2026-07-16 15:16:00,affiliate_network,North America,Sports,63.78,2,127.56,4,0
+TX100255,2026-07-16 16:18:00,email_campaigns,LATAM,Toys,31.12,2,62.23,4,0
+TX100794,2026-07-16 16:21:00,mobile_app_android,MEA,Grocery,20.9,2,41.8,4,0
+TX100953,2026-07-16 17:26:00,mobile_app_ios,APAC,Home & Kitchen,69.35,1,69.35,4,1
+TX100944,2026-07-16 18:04:00,web_store_apac,LATAM,Toys,53.08,1,53.08,5,0
+TX100539,2026-07-16 19:12:00,mobile_app_android,LATAM,Beauty,14.8,1,14.8,4,0
+TX100159,2026-07-16 19:14:00,web_store_eu,MEA,Books,9.3,3,27.9,3,0
+TX100400,2026-07-16 20:43:00,web_store_us,LATAM,Sports,72.53,2,145.05,5,0
+TX100169,2026-07-16 23:52:00,web_store_us,APAC,Apparel,55.5,6,332.98,4,0
+TX100946,2026-07-17 03:11:00,mobile_app_ios,Europe,Books,14.93,1,14.93,5,0
+TX100354,2026-07-17 05:34:00,marketplace_etsy,LATAM,Home & Kitchen,35.17,3,105.51,5,0
+TX101359,2026-07-17 05:50:00,marketplace_amazon,APAC,Beauty,21.01,3,63.04,3,0
+TX100028,2026-07-17 06:09:00,web_store_eu,MEA,Sports,33.68,1,33.68,4,0
+TX101188,2026-07-17 10:16:00,retail_pos_partners,LATAM,Sports,52.76,3,158.29,4,0
+TX100705,2026-07-17 10:58:00,affiliate_network,Europe,Electronics,146.04,3,438.13,4,0
+TX100087,2026-07-17 16:07:00,marketplace_amazon,LATAM,Toys,19.24,2,38.49,4,0
+TX100625,2026-07-17 16:12:00,mobile_app_android,MEA,Beauty,29.6,6,177.62,3,0
+TX100407,2026-07-17 16:25:00,marketplace_amazon,Europe,Apparel,46.15,1,46.15,5,0
+TX101233,2026-07-17 18:08:00,web_store_apac,APAC,Sports,43.76,4,175.03,5,0
+TX100804,2026-07-17 22:08:00,email_campaigns,MEA,Sports,50.91,2,101.82,4,0
+TX100356,2026-07-17 22:27:00,mobile_app_android,LATAM,Sports,73.02,1,73.02,5,0
+TX100128,2026-07-17 23:45:00,marketplace_amazon,MEA,Apparel,73.91,1,73.91,3,0
+TX100472,2026-07-18 00:15:00,web_store_eu,LATAM,Electronics,181.58,1,181.58,4,0
+TX101197,2026-07-18 00:53:00,marketplace_amazon,MEA,Books,8.37,1,8.37,4,0
+TX100822,2026-07-18 00:55:00,affiliate_network,APAC,Books,19.05,2,38.1,5,0
+TX101340,2026-07-18 02:40:00,web_store_us,LATAM,Apparel,49.6,1,49.6,5,0
+TX100591,2026-07-18 04:50:00,retail_pos_partners,Europe,Books,16.96,2,33.91,5,0
+TX101327,2026-07-18 05:53:00,mobile_app_android,LATAM,Home & Kitchen,26.81,1,26.81,5,0
+TX100320,2026-07-18 09:48:00,email_campaigns,LATAM,Beauty,30.83,1,30.83,4,0
+TX100410,2026-07-18 10:10:00,social_tiktok_ads,APAC,Apparel,36.64,3,109.92,4,1
+TX100236,2026-07-18 13:17:00,marketplace_etsy,LATAM,Home & Kitchen,92.26,2,184.53,4,0
+TX100383,2026-07-18 17:05:00,mobile_app_android,APAC,Apparel,52.42,1,52.42,5,0
+TX101246,2026-07-18 18:28:00,social_tiktok_ads,LATAM,Sports,37.58,4,150.32,5,1
+TX101189,2026-07-18 18:31:00,social_tiktok_ads,Europe,Toys,35.3,2,70.59,4,0
+TX100443,2026-07-18 20:57:00,mobile_app_android,Europe,Beauty,16.88,2,33.76,5,0
+TX100620,2026-07-18 21:28:00,email_campaigns,LATAM,Apparel,41.78,3,125.34,3,0
+TX100104,2026-07-18 23:57:00,social_tiktok_ads,LATAM,Toys,25.49,4,101.94,5,0
+TX100573,2026-07-19 05:52:00,marketplace_amazon,LATAM,Toys,33.5,1,33.5,5,0
+TX101375,2026-07-19 10:47:00,affiliate_network,North America,Beauty,39.24,1,39.24,5,0
+TX100510,2026-07-19 16:16:00,web_store_apac,Europe,Beauty,22.69,3,68.08,4,0
+TX100682,2026-07-19 19:15:00,web_store_apac,MEA,Electronics,319.52,2,639.05,3,0
+TX101012,2026-07-20 04:55:00,affiliate_network,LATAM,Sports,52.59,3,157.77,4,0
+TX100785,2026-07-20 05:20:00,web_store_eu,APAC,Grocery,26.2,1,26.2,5,0
+TX101083,2026-07-20 05:35:00,social_tiktok_ads,MEA,Beauty,41.83,1,41.83,3,0
+TX100022,2026-07-20 05:50:00,web_store_us,Europe,Home & Kitchen,62.38,2,124.76,4,1
+TX100346,2026-07-20 05:51:00,email_campaigns,LATAM,Grocery,10.17,1,10.17,4,0
+TX100162,2026-07-20 06:16:00,affiliate_network,Europe,Home & Kitchen,54.87,2,109.75,4,1
+TX101200,2026-07-20 14:57:00,web_store_apac,Europe,Grocery,25.99,1,25.99,5,0
+TX100938,2026-07-20 16:02:00,affiliate_network,Europe,Apparel,48.33,1,48.33,4,0
+TX101205,2026-07-20 17:53:00,web_store_us,LATAM,Toys,23.02,3,69.06,5,0
+TX101013,2026-07-20 19:36:00,web_store_apac,LATAM,Toys,23.67,2,47.34,5,0
+TX100157,2026-07-20 21:03:00,social_instagram_ads,MEA,Home & Kitchen,79.95,3,239.84,4,0
+TX100202,2026-07-20 22:56:00,social_tiktok_ads,APAC,Books,19.46,1,19.46,4,0
+TX100514,2026-07-21 00:44:00,social_tiktok_ads,North America,Grocery,25.92,1,25.92,5,0
+TX100358,2026-07-21 01:04:00,marketplace_amazon,APAC,Books,26.51,1,26.51,4,0
+TX101296,2026-07-21 03:45:00,web_store_us,MEA,Beauty,31.87,2,63.74,4,0
+TX100014,2026-07-21 05:34:00,mobile_app_android,MEA,Home & Kitchen,84.17,3,252.51,4,0
+TX101194,2026-07-21 06:44:00,social_tiktok_ads,North America,Beauty,34.65,2,69.3,5,0
+TX101338,2026-07-21 08:33:00,web_store_apac,Europe,Beauty,23.67,4,94.69,5,0
+TX100450,2026-07-21 09:23:00,email_campaigns,North America,Sports,25.39,1,25.39,5,0
+TX101040,2026-07-21 14:39:00,web_store_apac,North America,Sports,63.53,5,317.64,2,0
+TX101299,2026-07-21 14:59:00,mobile_app_android,North America,Grocery,26.75,1,26.75,2,0
+TX100566,2026-07-21 21:27:00,marketplace_etsy,Europe,Apparel,58.57,5,292.84,5,0
+TX100601,2026-07-21 21:44:00,web_store_us,LATAM,Home & Kitchen,63.55,3,190.65,4,0
+TX100251,2026-07-22 00:03:00,email_campaigns,LATAM,Sports,40.35,1,40.35,4,0
+TX100626,2026-07-22 01:50:00,retail_pos_partners,APAC,Books,14.04,3,42.11,4,0
+TX100623,2026-07-22 02:15:00,web_store_apac,APAC,Beauty,39.36,1,39.36,5,0
+TX100829,2026-07-22 05:32:00,affiliate_network,North America,Electronics,138.38,1,138.38,4,1
+TX100812,2026-07-22 07:29:00,retail_pos_partners,APAC,Home & Kitchen,52.1,1,52.1,4,0
+TX100760,2026-07-22 07:43:00,web_store_apac,Europe,Beauty,35.06,2,70.11,4,0
+TX101100,2026-07-22 09:02:00,affiliate_network,MEA,Home & Kitchen,37.67,1,37.67,4,0
+TX100554,2026-07-22 19:02:00,email_campaigns,Europe,Toys,25.5,4,102.02,3,0
+TX100767,2026-07-22 19:38:00,email_campaigns,MEA,Toys,40.22,2,80.44,5,0
+TX100240,2026-07-22 20:38:00,social_instagram_ads,Europe,Home & Kitchen,76.29,2,152.59,5,0
+TX100295,2026-07-22 20:39:00,affiliate_network,MEA,Grocery,16.63,2,33.26,4,0
+TX100800,2026-07-23 00:03:00,web_store_us,North America,Electronics,254.04,4,1016.15,5,1
+TX100611,2026-07-23 02:45:00,retail_pos_partners,LATAM,Beauty,37.81,8,394.24587013175227,3,1
+TX101235,2026-07-23 02:50:00,web_store_eu,MEA,Toys,39.89,1,39.89,3,0
+TX100819,2026-07-23 05:07:00,marketplace_etsy,LATAM,Grocery,17.32,4,69.27,3,0
+TX100701,2026-07-23 10:11:00,web_store_apac,LATAM,Books,19.68,1,19.68,4,0
+TX100232,2026-07-23 13:07:00,email_campaigns,APAC,Grocery,34.22,1,34.22,3,0
+TX100175,2026-07-23 14:58:00,web_store_apac,MEA,Grocery,28.57,1,28.57,3,0
+TX100772,2026-07-23 15:18:00,email_campaigns,North America,Apparel,43.81,1,43.81,5,1
+TX100018,2026-07-23 15:25:00,affiliate_network,Europe,Toys,33.76,2,67.52,5,0
+TX100433,2026-07-23 15:30:00,social_tiktok_ads,LATAM,Apparel,38.8,2,77.61,3,0
+TX101423,2026-07-23 21:57:00,email_campaigns,North America,Grocery,15.69,1,15.69,4,0
+TX100310,2026-07-23 22:42:00,web_store_apac,APAC,Toys,37.37,3,112.11,5,1
+TX101038,2026-07-23 23:34:00,retail_pos_partners,APAC,Sports,59.63,1,59.63,5,0
+TX100096,2026-07-24 02:18:00,mobile_app_ios,Europe,Grocery,29.68,3,89.03,3,0
+TX101245,2026-07-24 04:28:00,affiliate_network,Europe,Electronics,333.18,3,999.54,3,0
+TX101018,2026-07-24 08:47:00,web_store_us,Europe,Apparel,54.22,1,54.22,4,0
+TX101024,2026-07-24 11:55:00,web_store_apac,North America,Electronics,248.31,2,496.61,4,0
+TX100526,2026-07-24 12:05:00,marketplace_etsy,MEA,Apparel,31.43,4,125.73,4,0
+TX101257,2026-07-24 13:08:00,web_store_us,LATAM,Apparel,36.38,2,72.76,4,0
+TX100033,2026-07-24 15:35:00,web_store_eu,Europe,Apparel,65.99,2,131.98,5,0
+TX100943,2026-07-24 16:16:00,web_store_apac,MEA,Apparel,46.65,1,46.65,4,0
+TX100196,2026-07-24 20:09:00,social_instagram_ads,LATAM,Books,13.36,4,53.43,4,0
+TX101240,2026-07-24 21:04:00,retail_pos_partners,Europe,Beauty,27.91,2,55.81,4,0
+TX101126,2026-07-24 21:23:00,web_store_eu,APAC,Books,21.14,1,21.14,4,0
+TX100827,2026-07-24 23:15:00,retail_pos_partners,LATAM,Home & Kitchen,52.34,1,52.34,4,0
+TX101218,2026-07-25 03:17:00,social_tiktok_ads,LATAM,Toys,34.94,2,69.88,4,0
+TX101051,2026-07-25 06:30:00,social_instagram_ads,MEA,Home & Kitchen,34.24,1,34.24,4,0
+TX100259,2026-07-25 08:23:00,marketplace_amazon,APAC,Books,15.41,1,15.41,2,0
+TX100278,2026-07-25 09:02:00,email_campaigns,MEA,Grocery,26.14,2,52.29,4,0
+TX100729,2026-07-25 11:51:00,retail_pos_partners,North America,Home & Kitchen,72.88,1,72.88,4,1
+TX100702,2026-07-25 18:52:00,retail_pos_partners,Europe,Toys,39.02,4,156.09,5,0
+TX100887,2026-07-25 20:49:00,web_store_us,Europe,Home & Kitchen,68.4,4,273.62,4,0
+TX100339,2026-07-25 21:05:00,mobile_app_ios,Europe,Books,17.01,1,17.01,3,0
+TX100638,2026-07-25 23:42:00,social_instagram_ads,APAC,Electronics,230.79,1,230.79,4,0
+TX100651,2026-07-26 01:11:00,marketplace_amazon,MEA,Home & Kitchen,61.4,1,61.4,3,1
+TX100413,2026-07-26 03:26:00,web_store_us,APAC,Toys,21.66,3,64.99,4,0
+TX101286,2026-07-26 10:33:00,mobile_app_android,LATAM,Grocery,12.29,1,12.29,5,0
+TX100821,2026-07-26 14:11:00,affiliate_network,MEA,Grocery,22.9,4,91.61,5,0
+TX100548,2026-07-26 15:08:00,mobile_app_android,LATAM,Home & Kitchen,53.33,3,160.0,4,0
+TX100211,2026-07-26 17:10:00,web_store_us,APAC,Grocery,27.04,2,54.08,4,0
+TX101383,2026-07-26 17:57:00,web_store_eu,MEA,Grocery,25.07,2,50.15,4,0
+TX100322,2026-07-26 18:28:00,social_instagram_ads,APAC,Beauty,25.19,3,75.56,5,0
+TX100469,2026-07-26 23:34:00,web_store_us,LATAM,Sports,53.19,1,53.19,5,0
+TX100001,2026-07-26 23:57:00,mobile_app_ios,North America,Apparel,62.77,1,62.77,5,1
+TX100252,2026-07-27 03:31:00,social_instagram_ads,LATAM,Books,20.28,1,20.28,4,0
+TX100432,2026-07-27 04:00:00,marketplace_amazon,North America,Grocery,29.76,2,59.52,4,0
+TX100457,2026-07-27 06:45:00,marketplace_amazon,North America,Grocery,19.73,1,19.73,4,0
+TX100882,2026-07-27 10:24:00,affiliate_network,North America,Beauty,38.16,1,38.16,4,1
+TX100680,2026-07-27 13:11:00,social_instagram_ads,LATAM,Electronics,217.3,2,434.61,4,0
+TX100613,2026-07-27 14:00:00,affiliate_network,MEA,Beauty,17.25,3,51.76,3,1
+TX100980,2026-07-27 14:57:00,mobile_app_ios,LATAM,Toys,38.41,2,76.83,4,0
+TX100581,2026-07-27 15:26:00,marketplace_etsy,LATAM,Grocery,19.74,2,39.47,5,0
+TX100731,2026-07-27 15:36:00,marketplace_etsy,MEA,Books,17.26,1,17.26,4,0
+TX100405,2026-07-27 19:07:00,social_tiktok_ads,MEA,Sports,56.66,1,56.66,5,0
+TX100453,2026-07-27 19:55:00,social_instagram_ads,Europe,Beauty,28.49,1,28.49,4,0
+TX100466,2026-07-27 21:55:00,marketplace_etsy,North America,Books,17.03,3,51.1,4,0
+TX101284,2026-07-27 22:24:00,retail_pos_partners,LATAM,Beauty,25.84,2,51.68,5,0
+TX101434,2026-07-27 22:44:00,email_campaigns,APAC,Sports,37.42,3,112.27,4,0
+TX100389,2026-07-28 01:10:00,mobile_app_android,North America,Grocery,21.86,1,21.86,1,1
+TX100418,2026-07-28 06:26:00,marketplace_etsy,LATAM,Apparel,40.17,4,160.68,5,1
+TX100448,2026-07-28 07:03:00,web_store_us,APAC,Sports,54.17,3,162.51,5,1
+TX100145,2026-07-28 07:19:00,mobile_app_android,LATAM,Beauty,28.67,1,28.67,4,0
+TX100590,2026-07-28 11:55:00,mobile_app_ios,MEA,Beauty,33.43,1,33.43,5,0
+TX101148,2026-07-28 15:08:00,web_store_us,North America,Toys,18.91,1,18.91,5,0
+TX101337,2026-07-28 15:44:00,web_store_eu,LATAM,Sports,44.17,3,132.51,4,0
+TX101140,2026-07-28 22:57:00,mobile_app_ios,APAC,Apparel,28.61,1,28.61,5,0
+TX100113,2026-07-29 00:54:00,marketplace_etsy,MEA,Books,21.74,1,21.74,4,0
+TX101046,2026-07-29 01:21:00,social_instagram_ads,LATAM,Toys,28.82,3,86.47,5,0
+TX100802,2026-07-29 04:13:00,social_tiktok_ads,LATAM,Sports,68.61,2,137.23,4,0
+TX101298,2026-07-29 05:16:00,email_campaigns,North America,Apparel,50.25,3,150.74,4,0
+TX100194,2026-07-29 07:36:00,social_instagram_ads,Europe,Toys,30.45,4,121.79,4,0
+TX100429,2026-07-29 08:08:00,mobile_app_ios,MEA,Sports,55.2,1,55.2,4,0
+TX100127,2026-07-29 08:49:00,affiliate_network,LATAM,Beauty,29.39,1,29.39,4,0
+TX100131,2026-07-29 09:54:00,affiliate_network,North America,Beauty,25.47,1,25.47,4,0
+TX101333,2026-07-29 11:35:00,web_store_apac,Europe,Books,19.99,1,19.99,4,0
+TX100633,2026-07-29 12:05:00,social_tiktok_ads,LATAM,Books,23.75,1,23.75,4,0
+TX101316,2026-07-29 12:57:00,marketplace_etsy,APAC,Beauty,17.41,2,34.83,4,0
+TX100636,2026-07-29 13:46:00,affiliate_network,APAC,Home & Kitchen,57.53,2,115.06,3,0
+TX100147,2026-07-29 14:17:00,marketplace_etsy,APAC,Toys,29.74,2,59.48,5,0
+TX101026,2026-07-29 17:11:00,mobile_app_android,Europe,Grocery,25.72,4,102.9,3,0
+TX100552,2026-07-29 17:38:00,social_tiktok_ads,APAC,Electronics,183.91,4,735.64,4,0
+TX100719,2026-07-29 17:46:00,mobile_app_ios,LATAM,Beauty,27.25,2,54.51,4,0
+TX100452,2026-07-29 17:58:00,social_instagram_ads,LATAM,Toys,39.09,1,39.09,4,0
+TX101252,2026-07-29 18:25:00,web_store_us,LATAM,Beauty,26.37,1,26.37,5,0
+TX100704,2026-07-29 18:25:00,web_store_apac,North America,Apparel,42.71,2,85.42,5,0
+TX100052,2026-07-29 23:50:00,social_instagram_ads,LATAM,Sports,53.23,4,212.94,4,0
+TX100311,2026-07-30 02:19:00,marketplace_etsy,MEA,Apparel,41.23,2,82.47,4,0
+TX100370,2026-07-30 02:35:00,web_store_eu,APAC,Toys,29.9,3,89.7,4,0
+TX101128,2026-07-30 03:57:00,mobile_app_ios,MEA,Books,20.06,3,60.17,5,0
+TX100504,2026-07-30 04:00:00,email_campaigns,North America,Beauty,26.54,1,26.54,5,0
+TX100135,2026-07-30 04:27:00,marketplace_etsy,LATAM,Toys,17.48,3,52.43,5,0
+TX100419,2026-07-30 04:33:00,social_tiktok_ads,North America,Grocery,13.21,2,26.42,5,0
+TX100698,2026-07-30 04:49:00,web_store_us,MEA,Apparel,41.71,3,125.14,4,0
+TX101378,2026-07-30 06:08:00,social_tiktok_ads,MEA,Home & Kitchen,44.34,4,177.35,3,0
+TX100491,2026-07-30 06:25:00,social_instagram_ads,MEA,Beauty,44.99,1,44.99,5,0
+TX100547,2026-07-30 06:28:00,social_tiktok_ads,LATAM,Electronics,223.71,1,223.71,5,0
+TX101015,2026-07-30 08:38:00,marketplace_amazon,APAC,Toys,33.99,2,67.97,5,0
+TX100593,2026-07-30 09:18:00,mobile_app_android,APAC,Apparel,61.96,4,247.84,4,0
+TX101221,2026-07-30 09:36:00,marketplace_amazon,Europe,Sports,41.2,3,123.61,4,1
+TX100454,2026-07-30 11:04:00,web_store_eu,MEA,Grocery,13.63,2,27.25,5,0
+TX101225,2026-07-30 19:57:00,marketplace_etsy,Europe,Books,16.19,1,16.19,4,0
+TX101372,2026-07-30 20:00:00,web_store_apac,LATAM,Toys,39.68,2,79.36,4,0
+TX100856,2026-07-30 20:11:00,mobile_app_android,Europe,Toys,25.85,3,77.56,5,0
+TX100954,2026-07-30 23:50:00,mobile_app_android,North America,Beauty,24.37,3,73.12,5,0
+TX100527,2026-07-31 02:05:00,affiliate_network,Europe,Sports,62.19,5,310.96,5,0
+TX100130,2026-07-31 06:04:00,mobile_app_android,LATAM,Books,19.3,2,38.61,4,0
+TX100671,2026-07-31 07:22:00,marketplace_amazon,North America,Apparel,46.24,2,92.48,5,0
+TX101305,2026-07-31 08:06:00,affiliate_network,LATAM,Home & Kitchen,72.69,1,72.69,4,0
+TX100108,2026-07-31 09:15:00,mobile_app_android,North America,Grocery,28.61,2,57.21,4,0
+TX100187,2026-07-31 09:32:00,web_store_eu,LATAM,Apparel,43.05,2,86.11,4,0
+TX101248,2026-07-31 11:05:00,email_campaigns,LATAM,Sports,29.79,1,29.79,4,0
+TX100643,2026-07-31 18:40:00,social_tiktok_ads,APAC,Home & Kitchen,68.54,2,137.09,4,0
+TX100528,2026-07-31 20:09:00,mobile_app_android,LATAM,Apparel,47.71,3,143.14,3,0
+TX101035,2026-07-31 23:41:00,marketplace_etsy,Europe,Beauty,16.73,2,33.47,4,0
+TX101213,2026-08-01 01:29:00,social_tiktok_ads,Europe,Apparel,60.99,3,182.98,4,0
+TX101069,2026-08-01 02:42:00,marketplace_amazon,APAC,Beauty,27.1,4,108.4,4,0
+TX101062,2026-08-01 04:16:00,retail_pos_partners,APAC,Books,9.09,2,18.19,4,0
+TX100090,2026-08-01 09:32:00,marketplace_amazon,North America,Toys,47.81,2,95.61,4,0
+TX100396,2026-08-01 10:12:00,web_store_apac,MEA,Toys,26.71,3,80.14,4,0
+TX101098,2026-08-01 10:50:00,affiliate_network,North America,Beauty,25.76,3,77.29,5,0
+TX100501,2026-08-01 17:31:00,marketplace_amazon,Europe,Apparel,42.82,4,171.27,4,0
+TX100805,2026-08-01 19:07:00,marketplace_etsy,MEA,Home & Kitchen,57.13,4,228.53,4,0
+TX100308,2026-08-01 21:58:00,marketplace_etsy,APAC,Sports,49.14,3,147.41,5,0
+TX100774,2026-08-01 22:14:00,affiliate_network,APAC,Beauty,24.58,1,24.58,5,0
+TX101187,2026-08-01 22:38:00,retail_pos_partners,LATAM,Home & Kitchen,69.29,2,138.59,4,0
+TX100797,2026-08-02 00:37:00,retail_pos_partners,Europe,Apparel,46.35,1,46.35,4,0
+TX101122,2026-08-02 04:44:00,mobile_app_android,MEA,Grocery,19.15,1,19.15,5,1
+TX101061,2026-08-02 06:01:00,social_tiktok_ads,LATAM,Toys,40.04,2,80.07,5,0
+TX101269,2026-08-02 10:26:00,social_instagram_ads,MEA,Grocery,15.27,3,45.82,5,0
+TX101362,2026-08-02 13:47:00,social_instagram_ads,North America,Sports,57.68,1,57.68,5,0
+TX101171,2026-08-02 14:18:00,marketplace_etsy,APAC,Sports,52.06,1,52.06,5,0
+TX101404,2026-08-02 14:21:00,affiliate_network,MEA,Apparel,25.38,3,76.15,4,0
+TX100008,2026-08-02 14:34:00,marketplace_amazon,North America,Sports,65.15,1,65.15,4,0
+TX100032,2026-08-02 15:52:00,affiliate_network,North America,Home & Kitchen,69.76,1,69.76,4,0
+TX101365,2026-08-02 16:02:00,web_store_us,LATAM,Electronics,305.81,3,917.44,3,0
+TX100917,2026-08-02 20:04:00,social_tiktok_ads,APAC,Beauty,28.01,2,56.02,4,0
+TX100703,2026-08-02 22:18:00,web_store_apac,APAC,Books,21.8,2,43.61,5,0
+TX101050,2026-08-03 01:12:00,marketplace_etsy,Europe,Grocery,28.01,3,84.02,3,0
+TX100474,2026-08-03 01:25:00,affiliate_network,Europe,Electronics,242.43,3,727.3,5,0
+TX100490,2026-08-03 03:47:00,web_store_us,Europe,Beauty,23.03,1,23.03,3,0
+TX101324,2026-08-03 04:31:00,mobile_app_ios,North America,Home & Kitchen,76.12,2,152.24,4,0
+TX101276,2026-08-03 04:42:00,affiliate_network,MEA,Apparel,45.93,1,45.93,4,0
+TX100961,2026-08-03 04:54:00,mobile_app_android,LATAM,Toys,43.11,1,43.11,5,0
+TX100986,2026-08-03 06:15:00,web_store_apac,LATAM,Beauty,15.87,1,15.87,4,0
+TX101192,2026-08-03 06:51:00,web_store_us,North America,Grocery,20.86,2,41.72,3,0
+TX100000,2026-08-03 08:15:00,email_campaigns,North America,Home & Kitchen,73.07,2,146.14,4,0
+TX100344,2026-08-03 10:08:00,email_campaigns,MEA,Home & Kitchen,42.61,4,170.45,3,0
+TX101352,2026-08-03 13:55:00,mobile_app_ios,Europe,Home & Kitchen,69.18,1,69.18,4,0
+TX100071,2026-08-03 14:35:00,web_store_apac,Europe,Sports,53.47,2,106.95,1,1
+TX100646,2026-08-03 16:00:00,web_store_eu,Europe,Home & Kitchen,67.8,2,135.61,5,0
+TX100870,2026-08-03 16:07:00,web_store_eu,Europe,Apparel,44.45,3,133.34,5,0
+TX101402,2026-08-03 17:32:00,marketplace_amazon,North America,Apparel,22.71,6,136.27,4,0
+TX100204,2026-08-04 02:27:00,email_campaigns,Europe,Sports,37.2,1,37.2,5,1
+TX100289,2026-08-04 10:14:00,web_store_eu,APAC,Books,13.39,2,26.78,5,0
+TX100522,2026-08-04 11:03:00,retail_pos_partners,MEA,Home & Kitchen,43.0,4,171.99,4,0
+TX100428,2026-08-04 15:13:00,marketplace_amazon,APAC,Grocery,11.16,2,22.33,5,0
+TX100217,2026-08-04 15:53:00,retail_pos_partners,MEA,Electronics,275.28,4,1101.13,4,0
+TX100123,2026-08-04 17:03:00,web_store_eu,North America,Grocery,13.73,1,13.73,4,0
+TX100673,2026-08-04 17:15:00,marketplace_etsy,MEA,Grocery,28.49,4,113.97,4,0
+TX101370,2026-08-04 18:01:00,web_store_apac,MEA,Grocery,25.93,5,129.66,4,0
+TX101181,2026-08-04 18:23:00,affiliate_network,LATAM,Apparel,45.55,2,91.11,5,0
+TX100889,2026-08-04 21:09:00,retail_pos_partners,North America,Books,18.64,3,55.93,4,0
+TX100235,2026-08-04 23:09:00,marketplace_amazon,MEA,Books,19.41,1,19.41,4,0
+TX100115,2026-08-04 23:34:00,marketplace_etsy,MEA,Books,16.79,1,16.79,4,0
+TX101282,2026-08-05 03:03:00,marketplace_amazon,APAC,Electronics,144.02,1,144.02,4,0
+TX101448,2026-08-05 03:50:00,web_store_eu,North America,Sports,70.98,1,70.98,5,0
+TX100106,2026-08-05 07:53:00,social_instagram_ads,APAC,Grocery,28.42,1,28.42,4,0
+TX100025,2026-08-05 08:49:00,web_store_us,MEA,Home & Kitchen,70.52,2,141.04,4,0
+TX100846,2026-08-05 13:02:00,mobile_app_ios,North America,Toys,31.18,1,31.18,4,0
+TX100734,2026-08-05 14:11:00,affiliate_network,North America,Apparel,42.52,1,42.52,4,0
+TX100182,2026-08-05 15:40:00,mobile_app_ios,MEA,Toys,20.61,3,61.84,5,0
+TX100790,2026-08-05 16:12:00,marketplace_amazon,APAC,Electronics,208.66,1,208.66,5,1
+TX100294,2026-08-05 18:48:00,web_store_apac,LATAM,Grocery,24.17,2,48.35,4,0
+TX100521,2026-08-05 23:08:00,social_tiktok_ads,LATAM,Toys,38.04,6,228.21,5,0
+TX101117,2026-08-05 23:54:00,email_campaigns,Europe,Toys,34.35,1,34.35,5,0
+TX100777,2026-08-06 05:43:00,retail_pos_partners,MEA,Sports,84.84,16,1867.7724292422117,3,0
+TX100005,2026-08-06 05:44:00,affiliate_network,North America,Sports,56.68,1,56.68,4,1
+TX100280,2026-08-06 08:18:00,mobile_app_android,Europe,Beauty,19.63,3,58.89,5,0
+TX101425,2026-08-06 08:31:00,mobile_app_ios,North America,Electronics,180.11,1,180.11,4,0
+TX100266,2026-08-06 08:36:00,social_tiktok_ads,North America,Toys,27.26,1,27.26,4,0
+TX100857,2026-08-06 11:35:00,social_tiktok_ads,North America,Toys,28.41,2,56.81,5,0
+TX100402,2026-08-06 12:23:00,web_store_apac,APAC,Sports,55.56,2,111.13,3,0
+TX100499,2026-08-06 15:46:00,social_tiktok_ads,APAC,Toys,20.11,3,60.32,4,0
+TX100193,2026-08-06 17:24:00,marketplace_amazon,MEA,Toys,32.07,1,32.07,4,1
+TX101146,2026-08-06 19:39:00,web_store_apac,North America,Apparel,29.7,2,59.4,5,0
+TX101037,2026-08-06 19:51:00,email_campaigns,MEA,Beauty,24.41,5,122.06,4,0
+TX101158,2026-08-06 20:03:00,web_store_us,MEA,Books,17.29,3,51.87,4,0
+TX101088,2026-08-06 20:27:00,marketplace_amazon,LATAM,Toys,38.7,1,38.7,4,0
+TX100149,2026-08-06 22:11:00,marketplace_amazon,MEA,Home & Kitchen,63.79,1,63.79,5,0
+TX100630,2026-08-07 02:01:00,marketplace_amazon,LATAM,Apparel,51.84,1,51.84,5,0
+TX101401,2026-08-07 04:29:00,web_store_us,LATAM,Books,19.42,3,58.25,4,0
+TX100553,2026-08-07 07:42:00,email_campaigns,North America,Home & Kitchen,96.51,4,386.05,3,0
+TX101243,2026-08-07 12:20:00,web_store_eu,MEA,Home & Kitchen,70.11,3,210.33,4,0
+TX100799,2026-08-07 17:39:00,web_store_us,APAC,Books,16.73,24,589.6198888647494,4,0
+TX100316,2026-08-07 17:53:00,mobile_app_android,MEA,Home & Kitchen,70.5,3,211.5,4,0
+TX100386,2026-08-07 18:26:00,web_store_us,Europe,Sports,55.82,2,111.65,4,0
+TX100267,2026-08-07 19:39:00,mobile_app_ios,MEA,Books,11.94,3,35.81,4,0
+TX101084,2026-08-07 20:36:00,retail_pos_partners,North America,Books,19.34,3,58.01,3,0
+TX101343,2026-08-07 20:42:00,social_tiktok_ads,LATAM,Beauty,39.84,2,79.69,5,0
+TX100464,2026-08-07 20:46:00,marketplace_etsy,Europe,Apparel,54.13,2,108.26,3,0
+TX101290,2026-08-07 21:47:00,email_campaigns,LATAM,Books,7.3,3,21.89,4,0
+TX101049,2026-08-07 22:15:00,marketplace_etsy,North America,Electronics,146.81,1,146.81,3,0
+TX100825,2026-08-07 23:36:00,marketplace_amazon,MEA,Electronics,133.46,2,266.92,3,0
+TX101154,2026-08-08 01:38:00,mobile_app_ios,LATAM,Books,21.59,1,21.59,3,0
+TX101101,2026-08-08 01:58:00,retail_pos_partners,North America,Books,24.2,1,24.2,4,0
+TX100988,2026-08-08 03:07:00,mobile_app_ios,Europe,Toys,16.34,2,32.69,4,0
+TX101351,2026-08-08 03:20:00,mobile_app_ios,Europe,Toys,38.02,2,76.03,3,0
+TX100617,2026-08-08 04:41:00,mobile_app_android,LATAM,Apparel,55.33,2,110.65,4,0
+TX101145,2026-08-08 06:06:00,retail_pos_partners,Europe,Sports,45.96,1,45.96,1,1
+TX100334,2026-08-08 09:15:00,retail_pos_partners,North America,Books,19.19,4,76.77,5,0
+TX100101,2026-08-08 13:14:00,web_store_apac,North America,Electronics,235.39,1,235.39,2,0
+TX100584,2026-08-08 14:36:00,social_tiktok_ads,Europe,Sports,58.67,2,117.33,4,0
+TX100811,2026-08-08 16:04:00,social_instagram_ads,North America,Apparel,47.74,1,47.74,3,0
+TX100029,2026-08-08 16:58:00,marketplace_amazon,MEA,Apparel,51.98,1,51.98,4,0
+TX100076,2026-08-08 17:56:00,email_campaigns,APAC,Home & Kitchen,63.14,1,63.14,5,0
+TX101162,2026-08-08 18:57:00,web_store_eu,Europe,Home & Kitchen,76.42,4,305.7,4,0
+TX100124,2026-08-08 20:02:00,marketplace_amazon,North America,Beauty,9.12,3,27.37,4,0
+TX100132,2026-08-09 01:22:00,email_campaigns,MEA,Home & Kitchen,76.73,1,76.73,3,0
+TX100787,2026-08-09 02:08:00,web_store_apac,LATAM,Apparel,31.8,2,63.6,4,0
+TX100538,2026-08-09 02:23:00,marketplace_etsy,LATAM,Sports,38.97,2,77.94,4,0
+TX100544,2026-08-09 07:20:00,mobile_app_android,MEA,Grocery,32.47,2,64.95,5,0
+TX101239,2026-08-09 10:34:00,marketplace_etsy,MEA,Books,30.51,3,91.53,3,1
+TX101107,2026-08-09 12:09:00,mobile_app_ios,APAC,Books,15.59,1,15.59,4,0
+TX101201,2026-08-09 13:59:00,social_tiktok_ads,LATAM,Toys,18.88,1,18.88,4,1
+TX100042,2026-08-09 15:51:00,affiliate_network,Europe,Grocery,19.33,2,38.66,4,0
+TX100959,2026-08-09 17:30:00,mobile_app_ios,MEA,Books,17.17,4,68.69,4,0
+TX100875,2026-08-09 22:20:00,social_instagram_ads,North America,Toys,35.57,1,35.57,4,0
+TX100685,2026-08-10 00:24:00,mobile_app_ios,MEA,Beauty,29.6,5,148.02,5,0
+TX100206,2026-08-10 01:18:00,web_store_us,APAC,Electronics,104.77,2,209.53,4,0
+TX101056,2026-08-10 07:00:00,mobile_app_android,LATAM,Home & Kitchen,62.23,2,124.45,3,0
+TX100555,2026-08-10 13:06:00,affiliate_network,APAC,Books,18.25,2,36.51,4,0
+TX100373,2026-08-10 15:01:00,mobile_app_ios,Europe,Apparel,42.81,2,85.61,5,0
+TX100836,2026-08-10 19:39:00,social_tiktok_ads,North America,Electronics,243.22,1,243.22,5,0
+TX101079,2026-08-10 22:03:00,marketplace_amazon,APAC,Books,24.53,1,24.53,4,0
+TX100256,2026-08-10 22:07:00,social_instagram_ads,North America,Books,15.24,1,15.24,4,0
+TX101199,2026-08-11 01:41:00,email_campaigns,LATAM,Grocery,19.31,1,19.31,4,0
+TX100674,2026-08-11 04:07:00,web_store_eu,North America,Grocery,23.78,2,47.55,4,0
+TX101329,2026-08-11 06:27:00,affiliate_network,North America,Beauty,22.14,1,22.14,3,0
+TX101001,2026-08-11 07:35:00,mobile_app_ios,APAC,Home & Kitchen,50.87,2,101.75,4,0
+TX100141,2026-08-11 08:21:00,social_instagram_ads,APAC,Beauty,29.79,2,59.58,5,0
+TX100982,2026-08-11 10:26:00,marketplace_etsy,Europe,Beauty,25.86,1,25.86,5,0
+TX100218,2026-08-11 11:14:00,mobile_app_android,MEA,Beauty,35.33,4,141.31,5,0
+TX101414,2026-08-11 14:18:00,mobile_app_ios,LATAM,Grocery,22.46,4,89.84,4,1
+TX100103,2026-08-11 14:42:00,web_store_eu,Europe,Grocery,21.18,1,21.18,4,0
+TX100950,2026-08-11 15:50:00,web_store_us,Europe,Books,14.3,1,14.3,3,0
+TX100884,2026-08-11 16:28:00,web_store_us,MEA,Toys,26.63,1,26.63,5,0
+TX100374,2026-08-11 17:08:00,marketplace_amazon,LATAM,Toys,34.45,2,68.9,2,0
+TX101267,2026-08-11 18:19:00,email_campaigns,MEA,Home & Kitchen,36.65,2,73.3,4,0
+TX101078,2026-08-11 20:03:00,social_instagram_ads,LATAM,Home & Kitchen,83.3,2,166.6,5,1
+TX100494,2026-08-11 23:30:00,social_instagram_ads,North America,Grocery,23.8,1,23.8,5,0
+TX100951,2026-08-11 23:58:00,marketplace_etsy,MEA,Toys,28.09,3,84.28,4,0
+TX100261,2026-08-12 04:35:00,marketplace_etsy,APAC,Home & Kitchen,48.85,3,146.54,4,0
+TX101190,2026-08-12 05:56:00,social_tiktok_ads,LATAM,Grocery,24.8,2,49.61,4,0
+TX100225,2026-08-12 09:47:00,web_store_apac,LATAM,Sports,68.35,2,136.7,4,0
+TX100303,2026-08-12 10:45:00,web_store_us,North America,Grocery,15.04,4,60.14,4,0
+TX101347,2026-08-12 14:02:00,mobile_app_android,MEA,Toys,32.07,2,64.14,5,0
+TX100136,2026-08-12 17:49:00,web_store_apac,MEA,Sports,33.6,3,100.79,5,0
+TX100065,2026-08-12 20:33:00,social_tiktok_ads,MEA,Sports,70.87,4,283.49,4,0
+TX101322,2026-08-12 20:42:00,marketplace_etsy,Europe,Home & Kitchen,92.26,3,276.79,4,0
+TX101366,2026-08-12 22:52:00,marketplace_etsy,LATAM,Books,12.93,1,12.93,3,0
+TX100312,2026-08-13 04:42:00,social_tiktok_ads,APAC,Books,27.28,1,27.28,3,0
+TX100832,2026-08-13 07:05:00,social_tiktok_ads,LATAM,Books,19.32,3,57.96,4,0
+TX100097,2026-08-13 07:43:00,social_tiktok_ads,North America,Toys,25.12,1,25.12,4,0
+TX100975,2026-08-13 08:14:00,mobile_app_android,APAC,Toys,28.61,2,57.21,3,0
+TX100746,2026-08-13 09:19:00,marketplace_amazon,APAC,Electronics,219.61,1,219.61,4,0
+TX100817,2026-08-13 10:11:00,mobile_app_android,APAC,Home & Kitchen,64.91,2,129.82,5,0
+TX100426,2026-08-13 11:49:00,social_tiktok_ads,LATAM,Books,21.35,1,21.35,4,0
+TX100081,2026-08-13 14:22:00,social_instagram_ads,Europe,Beauty,35.41,3,106.23,3,0
+TX100179,2026-08-13 17:02:00,social_instagram_ads,LATAM,Sports,70.43,2,140.85,5,0
+TX101238,2026-08-13 22:37:00,web_store_eu,Europe,Toys,37.3,1,37.3,5,0
+TX101234,2026-08-13 22:50:00,social_tiktok_ads,LATAM,Home & Kitchen,84.43,1,84.43,4,0
+TX100476,2026-08-13 23:36:00,social_tiktok_ads,Europe,Sports,57.12,2,114.23,5,0
+TX100650,2026-08-14 02:36:00,retail_pos_partners,APAC,Toys,36.46,1,36.46,4,0
+TX100168,2026-08-14 04:04:00,email_campaigns,APAC,Apparel,59.89,2,119.79,3,0
+TX101279,2026-08-14 04:53:00,web_store_eu,MEA,Apparel,43.78,4,175.13,5,0
+TX101420,2026-08-14 09:53:00,social_tiktok_ads,North America,Grocery,32.82,3,98.45,4,0
+TX100586,2026-08-14 11:34:00,web_store_eu,MEA,Sports,40.3,2,80.59,3,0
+TX100755,2026-08-14 14:32:00,mobile_app_ios,APAC,Sports,35.54,2,71.08,4,0
+TX100134,2026-08-14 15:06:00,marketplace_amazon,LATAM,Electronics,259.1,3,777.31,5,0
+TX100880,2026-08-14 20:00:00,affiliate_network,MEA,Grocery,16.11,1,16.11,5,0
+TX100736,2026-08-14 20:09:00,web_store_eu,Europe,Books,19.82,1,19.82,4,1
+TX100897,2026-08-14 21:01:00,social_instagram_ads,LATAM,Books,8.92,4,35.69,2,0
+TX100416,2026-08-14 21:15:00,social_tiktok_ads,Europe,Books,15.62,2,31.23,4,0
+TX101099,2026-08-14 22:44:00,social_instagram_ads,LATAM,Apparel,38.16,3,114.49,5,0
+TX100137,2026-08-14 23:37:00,social_instagram_ads,LATAM,Grocery,27.35,2,54.69,4,0
+TX100468,2026-08-15 00:48:00,marketplace_etsy,Europe,Apparel,44.74,1,44.74,4,0
+TX100138,2026-08-15 02:17:00,mobile_app_android,Europe,Toys,46.16,1,46.16,5,0
+TX100151,2026-08-15 06:18:00,social_tiktok_ads,North America,Sports,60.91,1,60.91,4,0
+TX100498,2026-08-15 07:31:00,mobile_app_ios,MEA,Books,19.26,4,77.05,5,0
+TX101198,2026-08-15 10:59:00,web_store_apac,APAC,Beauty,17.66,3,52.97,4,1
+TX100520,2026-08-15 12:43:00,web_store_apac,MEA,Beauty,37.34,1,37.34,5,0
+TX100188,2026-08-15 15:30:00,retail_pos_partners,LATAM,Sports,60.12,1,60.12,5,0
+TX100712,2026-08-15 15:50:00,social_tiktok_ads,North America,Books,17.18,3,51.55,4,0
+TX100242,2026-08-15 17:13:00,affiliate_network,North America,Beauty,22.85,3,68.55,5,0
+TX100455,2026-08-15 17:57:00,affiliate_network,North America,Home & Kitchen,56.29,2,112.59,3,0
+TX100810,2026-08-15 18:42:00,email_campaigns,North America,Home & Kitchen,82.83,4,331.32,3,1
+TX101161,2026-08-15 20:28:00,web_store_us,LATAM,Apparel,46.54,1,46.54,4,0
+TX100125,2026-08-16 00:39:00,web_store_us,Europe,Beauty,20.88,2,41.76,5,0
+TX100016,2026-08-16 01:14:00,email_campaigns,APAC,Beauty,18.07,2,36.14,5,0
+TX100753,2026-08-16 01:15:00,web_store_apac,Europe,Beauty,25.67,1,25.67,5,0
+TX100861,2026-08-16 01:44:00,email_campaigns,Europe,Sports,65.27,3,195.82,5,0
+TX100523,2026-08-16 02:21:00,web_store_eu,Europe,Books,23.03,2,46.07,5,0
+TX100691,2026-08-16 05:11:00,mobile_app_ios,APAC,Books,16.76,1,16.76,5,0
+TX101331,2026-08-16 06:48:00,social_tiktok_ads,APAC,Apparel,67.41,1,67.41,5,0
+TX101255,2026-08-16 13:09:00,social_tiktok_ads,APAC,Books,11.95,3,35.84,4,0
+TX100579,2026-08-16 14:39:00,web_store_apac,APAC,Apparel,32.87,1,32.87,4,0
+TX101183,2026-08-16 17:04:00,marketplace_etsy,LATAM,Home & Kitchen,74.37,4,297.47,3,0
+TX100874,2026-08-16 21:19:00,marketplace_amazon,MEA,Electronics,273.49,3,820.48,4,0
+TX100815,2026-08-17 01:00:00,marketplace_etsy,North America,Home & Kitchen,59.79,1,59.79,4,0
+TX100099,2026-08-17 02:29:00,mobile_app_ios,MEA,Grocery,18.83,1,18.83,5,0
+TX100265,2026-08-17 03:22:00,email_campaigns,Europe,Grocery,24.53,2,49.06,4,0
+TX100371,2026-08-17 05:45:00,social_tiktok_ads,APAC,Sports,46.81,3,140.43,5,1
+TX100482,2026-08-17 07:19:00,social_tiktok_ads,Europe,Grocery,26.35,2,52.69,4,0
+TX100872,2026-08-17 08:00:00,web_store_apac,MEA,Apparel,32.13,1,32.13,5,0
+TX100213,2026-08-17 09:12:00,marketplace_etsy,LATAM,Sports,46.42,2,92.85,5,0
+TX100563,2026-08-17 10:41:00,retail_pos_partners,North America,Home & Kitchen,79.24,2,158.47,5,0
+TX100515,2026-08-17 13:41:00,web_store_apac,LATAM,Home & Kitchen,48.61,1,48.61,3,0
+TX100440,2026-08-17 16:29:00,social_tiktok_ads,Europe,Grocery,26.75,1,26.75,5,0
+TX100918,2026-08-17 16:40:00,retail_pos_partners,North America,Home & Kitchen,50.89,3,152.67,4,0
+TX100360,2026-08-17 19:43:00,web_store_apac,Europe,Electronics,159.6,1,159.6,4,0
+TX100624,2026-08-17 21:56:00,social_tiktok_ads,North America,Sports,32.06,2,64.11,5,0
+TX100648,2026-08-18 01:35:00,marketplace_etsy,Europe,Apparel,50.69,1,50.69,4,0
+TX101039,2026-08-18 02:11:00,mobile_app_android,Europe,Books,16.52,1,16.52,5,0
+TX100669,2026-08-18 03:05:00,mobile_app_android,APAC,Grocery,17.66,1,17.66,4,0
+TX100244,2026-08-18 04:08:00,affiliate_network,APAC,Electronics,227.34,2,454.69,4,0
+TX100916,2026-08-18 04:57:00,affiliate_network,APAC,Home & Kitchen,52.15,2,104.3,4,0
+TX101314,2026-08-18 10:05:00,web_store_eu,MEA,Toys,40.54,2,81.09,5,0
+TX100604,2026-08-18 15:50:00,social_tiktok_ads,MEA,Apparel,22.66,1,22.66,4,0
+TX100957,2026-08-18 17:27:00,marketplace_etsy,APAC,Sports,48.83,1,48.83,4,0
+TX100201,2026-08-18 21:54:00,marketplace_etsy,APAC,Home & Kitchen,87.37,1,87.37,5,0
+TX101443,2026-08-18 22:09:00,web_store_eu,Europe,Beauty,32.7,4,130.81,3,0
+TX101278,2026-08-19 01:21:00,social_instagram_ads,MEA,Apparel,41.84,1,41.84,3,0
+TX100083,2026-08-19 02:49:00,marketplace_etsy,APAC,Toys,17.22,3,51.67,4,0
+TX100077,2026-08-19 05:51:00,marketplace_etsy,Europe,Apparel,47.92,6,287.51,4,0
+TX101251,2026-08-19 09:55:00,web_store_us,North America,Toys,20.37,1,20.37,5,0
+TX100854,2026-08-19 10:45:00,retail_pos_partners,MEA,Sports,41.37,1,41.37,5,0
+TX100614,2026-08-19 13:44:00,web_store_us,North America,Toys,36.96,2,73.92,5,0
+TX101153,2026-08-19 14:56:00,social_instagram_ads,APAC,Grocery,31.19,4,124.77,4,0
+TX101258,2026-08-19 14:57:00,web_store_eu,LATAM,Apparel,41.93,1,41.93,5,0
+TX100629,2026-08-19 18:26:00,marketplace_amazon,LATAM,Apparel,34.69,1,34.69,5,0
+TX100350,2026-08-19 20:21:00,mobile_app_android,North America,Toys,30.44,1,30.44,4,0
+TX101054,2026-08-19 21:13:00,mobile_app_ios,North America,Toys,24.27,2,48.54,5,0
+TX100216,2026-08-19 21:49:00,mobile_app_android,MEA,Electronics,236.64,1,236.64,4,1
+TX100784,2026-08-19 22:11:00,social_instagram_ads,APAC,Apparel,39.36,4,157.44,5,0
+TX100391,2026-08-19 22:20:00,affiliate_network,APAC,Apparel,35.34,1,35.34,5,0
+TX100588,2026-08-20 01:28:00,retail_pos_partners,APAC,Beauty,17.4,3,52.2,4,0
+TX100080,2026-08-20 01:54:00,retail_pos_partners,LATAM,Home & Kitchen,75.49,2,150.97,5,0
+TX100747,2026-08-20 07:08:00,mobile_app_android,North America,Grocery,23.76,3,71.27,5,0
+TX100608,2026-08-20 08:05:00,web_store_apac,Europe,Sports,76.56,1,76.56,4,0
+TX100750,2026-08-20 11:52:00,marketplace_etsy,MEA,Grocery,13.57,3,40.71,4,1
+TX100867,2026-08-20 14:53:00,mobile_app_android,MEA,Beauty,23.87,3,71.62,4,0
+TX100341,2026-08-20 15:02:00,social_tiktok_ads,LATAM,Electronics,202.99,3,608.98,4,1
+TX100757,2026-08-20 15:37:00,affiliate_network,Europe,Grocery,20.56,1,20.56,4,0
+TX101025,2026-08-20 17:59:00,marketplace_amazon,LATAM,Grocery,25.35,1,25.35,3,0
+TX100034,2026-08-20 19:27:00,web_store_apac,MEA,Sports,70.93,4,283.72,4,0
+TX100199,2026-08-20 20:09:00,retail_pos_partners,LATAM,Apparel,47.53,3,142.58,5,0
+TX101127,2026-08-20 20:24:00,web_store_eu,APAC,Electronics,99.85,1,99.85,4,0
+TX100863,2026-08-20 21:47:00,social_instagram_ads,MEA,Home & Kitchen,70.25,4,281.01,5,0
+TX101169,2026-08-20 21:55:00,web_store_apac,MEA,Toys,22.51,3,67.54,5,0
+TX101371,2026-08-20 22:25:00,social_instagram_ads,Europe,Grocery,24.41,1,24.41,4,0
+TX100063,2026-08-21 02:56:00,mobile_app_android,APAC,Apparel,51.91,1,51.91,5,0
+TX100066,2026-08-21 04:16:00,web_store_us,North America,Sports,26.99,1,26.99,5,0
+TX100932,2026-08-21 04:28:00,affiliate_network,MEA,Electronics,211.29,1,211.29,4,0
+TX100851,2026-08-21 12:26:00,affiliate_network,MEA,Toys,25.94,3,77.82,4,0
+TX101174,2026-08-21 15:15:00,social_instagram_ads,MEA,Electronics,202.52,2,405.05,4,0
+TX101176,2026-08-21 17:17:00,affiliate_network,Europe,Electronics,228.32,1,228.32,5,0
+TX101034,2026-08-21 17:27:00,marketplace_amazon,LATAM,Beauty,29.23,4,116.9,4,1
+TX100752,2026-08-21 18:01:00,marketplace_etsy,MEA,Apparel,57.95,4,231.8,4,0
+TX100317,2026-08-21 19:08:00,retail_pos_partners,APAC,Electronics,210.9,3,632.71,5,0
+TX101429,2026-08-21 22:08:00,web_store_apac,LATAM,Toys,43.37,6,260.25,5,0
+TX100471,2026-08-21 23:48:00,web_store_apac,Europe,Sports,59.94,1,59.94,5,0
+TX100628,2026-08-22 00:23:00,email_campaigns,MEA,Home & Kitchen,52.65,3,157.94,4,0
+TX101134,2026-08-22 00:35:00,web_store_us,LATAM,Sports,0.4302,1,21.51,5,0
+TX101068,2026-08-22 00:39:00,email_campaigns,Europe,Books,24.33,1,24.33,3,0
+TX101011,2026-08-22 02:24:00,social_tiktok_ads,LATAM,Grocery,16.36,1,16.36,4,0
+TX101085,2026-08-22 03:10:00,marketplace_amazon,LATAM,Grocery,18.46,1,18.46,2,0
+TX100567,2026-08-22 06:28:00,marketplace_etsy,MEA,Electronics,254.95,3,764.85,3,0
+TX100781,2026-08-22 06:32:00,email_campaigns,LATAM,Home & Kitchen,68.13,1,68.13,5,0
+TX100878,2026-08-22 06:42:00,web_store_eu,Europe,Toys,31.75,2,63.49,5,0
+TX100715,2026-08-22 12:10:00,web_store_eu,Europe,Toys,26.57,1,26.57,4,0
+TX101016,2026-08-22 14:49:00,email_campaigns,APAC,Books,27.96,3,83.87,4,0
+TX100057,2026-08-22 18:15:00,mobile_app_ios,North America,Books,22.05,3,66.14,4,0
+TX101441,2026-08-22 19:33:00,marketplace_amazon,LATAM,Apparel,45.5,5,227.48,3,0
+TX100387,2026-08-22 20:34:00,affiliate_network,LATAM,Electronics,53.93,2,107.85,4,0
+TX101364,2026-08-23 00:26:00,affiliate_network,MEA,Apparel,46.33,5,231.66,4,0
+TX100716,2026-08-23 02:21:00,retail_pos_partners,MEA,Home & Kitchen,72.78,1,72.78,5,0
+TX100688,2026-08-23 08:03:00,marketplace_amazon,North America,Beauty,28.5,1,28.5,3,0
+TX101403,2026-08-23 09:48:00,marketplace_amazon,LATAM,Sports,51.78,5,258.91,5,0
+TX100465,2026-08-23 12:28:00,email_campaigns,APAC,Books,22.58,1,22.58,4,0
+TX100764,2026-08-23 12:54:00,mobile_app_android,LATAM,Sports,63.66,6,381.99,3,0
+TX100109,2026-08-23 17:05:00,mobile_app_android,APAC,Toys,30.14,2,60.28,5,0
+TX100985,2026-08-23 18:17:00,marketplace_amazon,Europe,Toys,41.58,2,83.16,4,0
+TX100885,2026-08-23 20:12:00,social_instagram_ads,APAC,Electronics,221.54,1,221.54,4,1
+TX100725,2026-08-23 21:16:00,marketplace_etsy,LATAM,Grocery,12.26,3,36.78,5,0
+TX101373,2026-08-23 22:21:00,email_campaigns,LATAM,Home & Kitchen,83.48,1,83.48,4,0
+TX100069,2026-08-24 01:05:00,mobile_app_android,APAC,Grocery,23.23,1,23.23,4,0
+TX101405,2026-08-24 01:08:00,retail_pos_partners,LATAM,Home & Kitchen,42.61,2,85.23,5,0
+TX100039,2026-08-24 01:55:00,web_store_us,North America,Beauty,35.4,3,106.21,4,0
+TX100253,2026-08-24 02:20:00,retail_pos_partners,North America,Grocery,16.83,2,33.67,4,0
+TX101172,2026-08-24 04:12:00,email_campaigns,North America,Apparel,57.37,1,57.37,4,0
+TX101449,2026-08-24 06:11:00,web_store_eu,MEA,Beauty,29.11,2,58.23,4,0
+TX101087,2026-08-24 10:35:00,social_tiktok_ads,APAC,Grocery,23.23,1,23.23,5,0
+TX100795,2026-08-24 15:22:00,marketplace_etsy,APAC,Apparel,62.54,2,125.07,3,0
+TX100458,2026-08-24 16:28:00,affiliate_network,North America,Grocery,14.69,1,14.69,4,0
+TX100220,2026-08-24 20:41:00,retail_pos_partners,North America,Apparel,30.45,1,30.45,4,0
+TX100594,2026-08-24 21:52:00,affiliate_network,MEA,Sports,56.01,2,112.02,4,1
+TX100369,2026-08-24 22:28:00,web_store_eu,Europe,Grocery,23.48,3,70.44,4,0
+TX101141,2026-08-25 04:41:00,social_tiktok_ads,LATAM,Apparel,77.93,1,77.93,4,0
+TX100762,2026-08-25 04:41:00,email_campaigns,LATAM,Electronics,201.91,1,201.91,4,0
+TX100930,2026-08-25 07:33:00,web_store_eu,LATAM,Sports,45.71,1,45.71,5,0
+TX100222,2026-08-25 09:20:00,retail_pos_partners,North America,Apparel,29.37,4,117.47,3,0
+TX100926,2026-08-25 11:24:00,web_store_us,MEA,Beauty,26.14,2,52.28,4,0
+TX100160,2026-08-25 14:19:00,social_tiktok_ads,LATAM,Books,22.43,3,67.29,4,1
+TX100692,2026-08-25 18:01:00,mobile_app_ios,APAC,Toys,45.37,3,136.12,4,0
+TX100209,2026-08-25 18:09:00,marketplace_etsy,LATAM,Beauty,27.5,2,55.0,4,0
+TX100301,2026-08-25 18:41:00,retail_pos_partners,LATAM,Electronics,179.6,3,538.79,4,0
+TX101325,2026-08-25 19:02:00,email_campaigns,LATAM,Electronics,215.13,3,645.39,4,0
+TX100737,2026-08-25 23:58:00,affiliate_network,APAC,Sports,73.08,2,146.16,4,0
+TX100516,2026-08-26 01:14:00,marketplace_amazon,MEA,Home & Kitchen,70.68,1,70.68,3,0
+TX100595,2026-08-26 01:17:00,web_store_eu,LATAM,Apparel,49.99,1,49.99,3,0
+TX100483,2026-08-26 01:35:00,retail_pos_partners,LATAM,Apparel,32.79,2,65.58,4,0
+TX101179,2026-08-26 02:03:00,affiliate_network,APAC,Sports,65.32,3,195.97,4,0
+TX100974,2026-08-26 02:35:00,social_tiktok_ads,North America,Electronics,224.21,6,1345.28,4,0
+TX100284,2026-08-26 02:55:00,marketplace_etsy,LATAM,Electronics,341.78,1,341.78,4,0
+TX100509,2026-08-26 03:33:00,marketplace_etsy,North America,Apparel,65.35,1,65.35,4,0
+TX100118,2026-08-26 04:39:00,marketplace_etsy,LATAM,Apparel,72.51,1,72.51,4,0
+TX101437,2026-08-26 05:06:00,social_instagram_ads,APAC,Books,20.09,1,20.09,5,1
+TX101077,2026-08-26 06:41:00,retail_pos_partners,North America,Home & Kitchen,84.89,1,84.89,4,0
+TX100660,2026-08-26 07:57:00,mobile_app_android,North America,Home & Kitchen,74.32,1,74.32,3,0
+TX100745,2026-08-26 08:57:00,mobile_app_ios,LATAM,Electronics,195.14,1,195.14,4,0
+TX100697,2026-08-26 10:03:00,web_store_apac,Europe,Toys,18.69,1,18.69,3,0
+TX100754,2026-08-26 11:45:00,web_store_us,North America,Grocery,18.95,3,56.85,5,0
+TX100823,2026-08-26 15:07:00,email_campaigns,LATAM,Apparel,56.22,3,168.67,4,0
+TX101094,2026-08-26 17:32:00,marketplace_amazon,APAC,Electronics,241.47,1,241.47,4,0
+TX101287,2026-08-26 17:40:00,email_campaigns,North America,Electronics,195.38,3,586.15,5,0
+TX101288,2026-08-26 20:54:00,marketplace_amazon,MEA,Books,14.46,5,72.29,4,0
+TX100519,2026-08-27 02:19:00,mobile_app_ios,LATAM,Apparel,58.67,2,117.33,4,0
+TX100606,2026-08-27 05:28:00,social_instagram_ads,North America,Electronics,233.87,2,467.74,1,1
+TX100049,2026-08-27 07:10:00,social_tiktok_ads,North America,Electronics,147.02,1,147.02,5,0
+TX100518,2026-08-27 10:01:00,mobile_app_android,Europe,Electronics,261.62,3,784.87,5,0
+TX100865,2026-08-27 12:24:00,retail_pos_partners,North America,Sports,62.16,1,62.16,4,0
+TX100895,2026-08-27 16:06:00,web_store_us,APAC,Home & Kitchen,75.4,2,150.8,3,0
+TX101262,2026-08-27 17:36:00,retail_pos_partners,LATAM,Sports,55.52,2,111.03,4,0
+TX101334,2026-08-27 18:02:00,web_store_apac,Europe,Grocery,19.33,2,38.67,5,0
+TX100965,2026-08-27 19:27:00,web_store_eu,LATAM,Apparel,56.63,3,169.89,4,0
+TX100268,2026-08-27 21:53:00,email_campaigns,MEA,Electronics,235.54,2,471.08,4,0
+TX101130,2026-08-27 22:01:00,mobile_app_ios,MEA,Grocery,39.04,1,39.04,4,1
+TX101090,2026-08-27 23:16:00,mobile_app_ios,MEA,Books,20.19,3,60.56,4,0
