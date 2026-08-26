@@ -48,6 +48,25 @@ python data/sample_data_generator.py
 streamlit run app.py
 ```
 Open the local URL Streamlit prints (usually http://localhost:8501).
+Architecture
+ 12 web sources ──▶ ETL (extract/clean/enrich) ──▶ SQLite warehouse
+                                                          │
+                                                          ▼
+                                  ┌──────────── Anomaly Detector
+                                  │                       │
+                          Agent Tools ◀── tool calls ── Ollama LLM
+                                  │                       │
+                                  └──────── answers ──────┘
+                                                          │
+                                                          ▼
+                                          Streamlit Dashboard / Report
+Layer	Module	Responsibility
+Sources	pipeline/sources.py	12 simulated web-source connectors
+ETL	pipeline/etl.py	Extract → clean/dedupe/enrich → load into SQLite
+Analytics	pipeline/anomaly.py	Z-score, IQR, rolling-window anomaly detection
+Agent	agent/llm_client.py, tools.py, agent_loop.py	Autonomous tool-calling loop against a local Ollama model
+Reporting	reports/report_generator.py	Agent-driven Markdown report synthesis
+UI	app.py	Streamlit dashboard
 
 ## Project structure
 ```
